@@ -1,0 +1,6 @@
+
+<!-- Responsive Image -->
+<img src="{{ .Get "src" }}" class="img-fluid" alt="{{ .Get "alt" }}">
+{{ if not (eq  (.Get "caption") "") }}<p align="center" class="px-3 pb-3"><i>{{ .Get "caption" }}</i></p>{{ end }}
+
+<!-- ./Responsive Image -->

@@ -1,3 +1,19 @@
+# Hugo specific
+
+/public/
+/resources/_gen/
+
+hugo.exe
+hugo.linux
+hugo.darwin
+
+node_modules
+dist
+tmp
+
+# MAC specific
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
