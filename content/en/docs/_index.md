@@ -2,6 +2,7 @@
 title:        "Fine Print"
 linkTitle:    "Fine Print"
 type:         docs
+draft:        true
 weight:       99
 menu:
   main:

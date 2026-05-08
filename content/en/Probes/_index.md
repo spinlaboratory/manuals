@@ -1,6 +1,6 @@
 ---
-title:          "EPR/DNP Probes"
-linkTitle:      "EPR/DNP Probes"
+title:          "Probes"
+linkTitle:      "Probes"
 type:           docs
 menu:
   main:

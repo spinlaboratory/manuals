@@ -4,20 +4,32 @@ Add styles or override variables from the theme here.
 
 */
 
-$primary:                   #46812B;
-$secondary:                 #67AE3E;
+// $primary:                   #46812B;
+// $secondary:                 #67AE3E;
 
-$info:                      #F37021;
-$warning:                   #FF0000;
+$primary:                   #054169;
+$secondary:                 #0071BC;
 
-$enable-gradients:          true;
-$enable-rounded:            true;
-$enable-shadows:            true;
 
-$link-color:                #46812B;
+$white:                     #FFFFFF;
+
+$info:                      #FF9300;
+$warning:                   #FF0011;
+
+$enable-gradients:          false;
+$enable-rounded:            false;
+$enable-shadows:            false;
+
+$link-color:                #054169;
 $link-decoration:           none !default;
-$link-hover-color:          #F37021;
+$link-hover-color:          #0071BC;
 $link-hover-decoration:     none !default;
 
-$navbar-dark-hover-color:   #F37021;
-$navbar-light-hover-color:  #F37021;
+// $navbar-dark-hover-color:   #F37021;
+// $navbar-light-hover-color:  #F37021;
+
+
+
+$navbar-dark-hover-color:   #FFFFFF;
+$navbar-light-hover-color:  #FFFFFF;
+$td-navbar-bg-color:        $secondary;
