@@ -2,9 +2,10 @@
 title:          "Probes"
 linkTitle:      "Probes"
 type:           docs
+weight:         30
 menu:
   main:
-    weight:     20
+    weight:     30
 draft:          false
 ---
 {{% pageinfo color="primary" %}}

@@ -1,10 +1,10 @@
 ---
-title:        "Software"
-linkTitle:    "Software"
-type:         docs
-weight:       30
+title:          "Software"
+linkTitle:      "Software"
+type:           docs
+weight:         20
 menu:
   main:
-    weight:   30
-draft:        false
+    weight:     20
+draft:          false
 ---

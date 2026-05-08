@@ -4,12 +4,8 @@ Add styles or override variables from the theme here.
 
 */
 
-// $primary:                   #46812B;
-// $secondary:                 #67AE3E;
-
 $primary:                   #054169;
 $secondary:                 #0071BC;
-
 
 $white:                     #FFFFFF;
 
@@ -25,11 +21,9 @@ $link-decoration:           none !default;
 $link-hover-color:          #0071BC;
 $link-hover-decoration:     none !default;
 
-// $navbar-dark-hover-color:   #F37021;
-// $navbar-light-hover-color:  #F37021;
 
 
-
-$navbar-dark-hover-color:   #FFFFFF;
-$navbar-light-hover-color:  #FFFFFF;
+$navbar-dark-hover-color:   $white;;
+$navbar-light-hover-color:  $white;
 $td-navbar-bg-color:        $secondary;
+

@@ -2,7 +2,7 @@
 title:        "Resources"
 linkTitle:    "Resources"
 type:         docs
-weight:       30
+weight:       40
 menu:
   main:
     weight:   40

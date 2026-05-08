@@ -1,6 +1,6 @@
 ---
-title:          "Compact-Q"
-linkTitle:      "Compact-Q"
+title:          "Systems"
+linkTitle:      "Systems"
 type:           docs
 weight:         10
 menu:
