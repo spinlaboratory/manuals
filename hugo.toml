@@ -245,6 +245,10 @@ enable = false
 # hugo deploy
 # aws s3 sync --delete --acl public-read ./public/ s3://manuals.bridge12.com
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params.katex]
 enable = true
 
