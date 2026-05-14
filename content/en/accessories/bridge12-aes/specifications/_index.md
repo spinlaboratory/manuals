@@ -5,6 +5,7 @@ weight:         20
 type:           docs
 date:           2022-09-23
 description:    ""
+draft:          True
 ---
 The Bridge12 Active Electric Shims (AES) are a 5 channel shim system for electromagnet with a horizontal field. These magnets are typically used in Electron Paramagnetic Resonance (EPR) spectroscopy. The five channels or the shims are: Z0 (or B0), Z1, Z2, X, and Y. Each channel can operate at a current of up to 1.5 A.
 

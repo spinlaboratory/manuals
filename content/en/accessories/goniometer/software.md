@@ -5,6 +5,7 @@ weight:         20
 type:           docs
 date:           2024-07-11
 description:    "How to remote control the goniometer from a computer"
+draft:          True
 ---
 ## Getting Started
 ### Installing the pyB12SMC Python Package

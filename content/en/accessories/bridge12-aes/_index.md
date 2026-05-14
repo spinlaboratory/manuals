@@ -5,6 +5,7 @@ weight:         10
 type:           docs
 date:           2022-09-22
 description:    "Online documentation for the Bridge12 active electric shims for elelctromagnets"
+draft:          True
 ---
 Welcome to the online documentation of the Bridge12 Active Electric Shims (AES) for electromagnets. 
 

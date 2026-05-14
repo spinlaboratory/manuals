@@ -1,10 +1,10 @@
 ---
-title:        "X-Band IF Backpanel Connections"
-linkTitle:    "Connections"
-type:         docs
-weight:       20
-draft:        False
-description:  "Backpanel connections of the X-Band IF system."
+title:          "X-Band IF Backpanel Connections"
+linkTitle:      "Connections"
+type:           docs
+weight:         20
+draft:          True
+description:    "Backpanel connections of the X-Band IF system."
 ---
 Below, please find a list and description of the backpanel connectors of the X-Band IF system. Please refer to the figure below for the location of connections.
 

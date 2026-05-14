@@ -2,7 +2,7 @@
 title:        "SpinLab"
 linkTitle:    "SpinLab"
 type:         docs
-weight:       90
+weight:       20
 draft:        false
 description:    "Bringing the Power of Python to MR Spectroscopy"
 ---
