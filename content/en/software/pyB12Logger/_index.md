@@ -2,7 +2,7 @@
 title:          "System Monitor - pyB12Logger"
 linkTitle:      "pyB12Logger"
 type:           docs
-weight:         40
+weight:         30
 draft:          false
 description:    "System monitor and logger for Bridge12 spectrometers"
 ---

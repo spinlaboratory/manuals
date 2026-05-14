@@ -2,7 +2,7 @@
 title:          "SpecMan4EPR"
 linkTitle:      "SpecMan4EPR"
 type:           docs
-weight:         30
+weight:         10
 draft:          false
 description:    "Online documentation for SpecMan4EPR"
 ---

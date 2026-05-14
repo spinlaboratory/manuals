@@ -3,7 +3,7 @@ title:          "X-Band IF"
 linkTitle:      "X-Band IF"
 type:           docs
 weight:         10
-draft:          false
+draft:          True
 description:    "Bridge12 X-Band IF System for Pulse EPR Spectroscopy"
 ---
 

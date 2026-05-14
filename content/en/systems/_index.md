@@ -8,9 +8,11 @@ menu:
     weight:     10
 draft:          false
 ---
-Welcome to the online documentation of our systems for EPR, NMR and DNP spectroscopy. Bridge12 does not distribute paper manuals with the equipment to ensure our documentation is always up to date. If you have questions, or suggestions for edits please contact us at info@bridge12.com.
+Welcome to the online documentation of our EPR systems. To ensure our documentation is always up to date and to easily expand and improve our documentation, we do not distribute paper manuals for these systems.
+
+If you have questions, or suggestions for edits please contact the EPR applications team at epr-applications@bruker.com.
 
 {{% pageinfo color="primary" %}}
 ### Important
-Please read the documentation for you product carefully to avoid any damages to the Bridge12 system.
+Please carefully read the complete documentation for your product to avoid any damages to your system.
 {{% /pageinfo %}}

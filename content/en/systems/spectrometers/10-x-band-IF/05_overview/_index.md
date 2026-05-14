@@ -1,10 +1,10 @@
 ---
-title:        "Bridge12 X-IF System Overview"
-linkTitle:    "Overview"
-type:         docs
-weight:       05
-draft:        False
-description:  "Bridge12 X-IF System Overview"
+title:          "Bridge12 X-IF System Overview"
+linkTitle:      "Overview"
+type:           docs
+weight:         05
+draft:          True
+description:    "Bridge12 X-IF System Overview"
 ---
 <center>
 {{< figure_b12t src="/images/systems/xif/X-Band IF Schematics_20240603.png" width="800px" caption="Bridge12 X-IF Overview Schematic">}}

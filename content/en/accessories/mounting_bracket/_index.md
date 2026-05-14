@@ -5,7 +5,7 @@ weight:         90
 type:           docs
 date:           2023-03-28
 description:    ""
-draft:          False
+draft:          True
 ---
 Some liquid cryogen-free cryostats require a mounting bracket to securely hold the probe in place and to dampen vibrations caused by the cold head. A support bracket is available for all Bridge12 EPR probes. Please reach out to support@bridge12.com if you require a support bracket. 
 

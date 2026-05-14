@@ -3,7 +3,7 @@ title:          "40 W Q-Band Amplifier"
 linkTitle:      "40 W Q-Band Amplifier"
 type:           docs
 weight:         20
-draft:          False
+draft:          True
 description:    40 W Q-Band Solid-State Microwave Amplifier
 ---
 The Bridge12 AMP-Q40 is a 40 W solid-state microwave amplifier for Q-Band (35 GHz) pulsed EPR spectroscopy. The amplifier can fully replace a TWT amplifier and in combination with the [Bridge12 QLP-1.6 probe ](https://www.bridge12.com/products/q-band-pulsed-epr-resonator/) is a great combination for pulsed dipolar EPR spectroscopy.
