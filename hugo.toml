@@ -1,4 +1,4 @@
-baseURL                                 = "https://spinlaboratory.github.io/manuals/"
+baseURL                                 = "https://spinlaboratory.github.io/"
 locale                                  = 'en-us'
 title                                   = 'Manuals'
 
