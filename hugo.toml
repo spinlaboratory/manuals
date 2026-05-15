@@ -1,10 +1,13 @@
-baseURL                                 = 'https://example.org/'
+baseURL                                 = "https://spinlaboratory.github.io/manuals/"
 locale                                  = 'en-us'
 title                                   = 'Manuals'
 
+
 theme = ["github.com/google/docsy", "github.com/google/docsy/dependencies"]
 
-relativeURLs = true
+relativeURLs = false
+canonifyURLs = false
+
 
 # Language settings
 contentDir                              = "content/en"
@@ -244,6 +247,10 @@ enable = false
 # hugo --cleanDestinationDir
 # hugo deploy
 # aws s3 sync --delete --acl public-read ./public/ s3://manuals.bridge12.com
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [params.katex]
 enable = true
