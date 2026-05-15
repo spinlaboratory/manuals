@@ -32,7 +32,7 @@ Typically, the logger is started automatically for example, after the computer r
 After hitting the return key a status message will inform the user whether the logger is already running, or if it has been started (see screen shot below).
 
 <center>
-{{< figure_b12t src="/images/software/pyB12Logger/Terminal_ScreenShot_800px.png">}}
+{{< figure_manuals src="/images/software/pyB12Logger/Terminal_ScreenShot_800px.png">}}
 </center>
 
 The general format it the command is:
@@ -57,7 +57,7 @@ The pyB12monitor is used to either plot historical data or the real-time data. T
 The pyB12monitor will start.
 
 <center>
-{{< figure_b12t src="/images/software/pyB12Logger/Monitor_ScreenShot_800px.png">}}
+{{< figure_manuals src="/images/software/pyB12Logger/Monitor_ScreenShot_800px.png">}}
 </center>
 
 | Name | Description |

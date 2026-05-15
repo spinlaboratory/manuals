@@ -20,14 +20,14 @@ To insert the sample follow these steps:
     2. Click the Operate button. This will enable all synthesizers
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/specman-1.png" alt="SpecMan4EPR mode panel">}}
+{{< figure_manuals src="/images/software/SpecMan/specman-1.png" alt="SpecMan4EPR mode panel">}}
 </center>
 
 2. Open the resonator tune window (``RESONATOR plugin``) from the plugins window
 3. Start the tune sweep by clicking the ``run`` button (green arrow on bottom left)
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/specman-3.png" alt="SpecMan4EPR tune mode">}}
+{{< figure_manuals src="/images/software/SpecMan/specman-3.png" alt="SpecMan4EPR tune mode">}}
 </center>
 
 4. Make sure the resonator is critically coupled. For this, the resonator iris is completely inserted into the resonator. This corresponds to a micrometer reading of 0 mm.
@@ -39,7 +39,7 @@ To insert the sample:
 7. Slowly insert the the sample stick and lower it into the resonator. The sample stick has holes at the top and the bottom to release the helium gas coming from the probe. While lowering the sample stick, observe the tuning picture of the resonator. Once the sample enters the resonator, the tuning dip of the resonator will be visible (see figure below).
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/specman-3a.png" alt="Resonator tuning with and without sample">}}
+{{< figure_manuals src="/images/software/SpecMan/specman-3a.png" alt="Resonator tuning with and without sample">}}
 </center>
 
 
@@ -51,7 +51,7 @@ To insert the sample:
 In side the tune window you can zoom into the tune picture by clicking the up and down buttons.
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/specman-4.png" alt="SpecMan4EPR tune mode">}}
+{{< figure_manuals src="/images/software/SpecMan/specman-4.png" alt="SpecMan4EPR tune mode">}}
 </center>
 
 

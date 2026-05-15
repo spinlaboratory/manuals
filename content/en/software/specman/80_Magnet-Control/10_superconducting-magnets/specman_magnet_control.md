@@ -16,7 +16,7 @@ To launch the magnet GUI:
 The following window will appear:
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/magnet_control/magnet_control_1_800px.png" alt="SpecMan4EPR Heater Control">}}
+{{< figure_manuals src="/images/software/SpecMan/magnet_control/magnet_control_1_800px.png" alt="SpecMan4EPR Heater Control">}}
 </center>
 
 The magnet control window has three different buttons to select the functionality:

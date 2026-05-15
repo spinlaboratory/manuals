@@ -17,7 +17,7 @@ In this section we provide the general procedure how to optimize the microwave p
 3. Enter the field value and click the ``Set Field`` button.
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/specman-5.png" alt="SpecMan4EPR magnetic field control">}}
+{{< figure_manuals src="/images/software/SpecMan/specman-5.png" alt="SpecMan4EPR magnetic field control">}}
 </center>
 
 4. Wait until the desired field value is reached. When the magnetic field is sweeping, the temperature of the Magnet Switch will typically rise from about 5.9 K to about 8 K. Once the desired field is reached, the temperature returns to its base temperature of about 5.9 K.
@@ -52,7 +52,7 @@ In the next step, we will find the optimum value for the microwave power. SpecMa
 6. Once you found the optimum values stop the tune mode by clicking the ``tune`` button.
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/specman-6.png" alt="SpecMan4EPR optimizing pulse parameters">}}
+{{< figure_manuals src="/images/software/SpecMan/specman-6.png" alt="SpecMan4EPR optimizing pulse parameters">}}
 </center>
 
 ### Record reference T2 decay ###
@@ -66,7 +66,7 @@ In the next step, we will record a two-pulse echo decay as a reference spectrum.
 It will take about 15 s to compile the pulse sequency and upload it to the AWG. Once the sequence is uploaded the experiment will start and the results are shown once the experiment finishes (see figure below). Overall duration for this experiment is about 26 s.
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/specman-7.png" alt="SpecMan4EPR two-pulse echo decay">}}
+{{< figure_manuals src="/images/software/SpecMan/specman-7.png" alt="SpecMan4EPR two-pulse echo decay">}}
 </center>
 
 For this particular sample we pick a maximum dipolar evolution time of about 2 &micro;s.

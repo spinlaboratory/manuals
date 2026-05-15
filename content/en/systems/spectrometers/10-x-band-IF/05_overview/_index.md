@@ -7,7 +7,7 @@ draft:          True
 description:    "Bridge12 X-IF System Overview"
 ---
 <center>
-{{< figure_b12t src="/images/systems/xif/X-Band IF Schematics_20240603.png" width="800px" caption="Bridge12 X-IF Overview Schematic">}}
+{{< figure_manuals src="/images/systems/xif/X-Band IF Schematics_20240603.png" width="800px" caption="Bridge12 X-IF Overview Schematic">}}
 </center>
 
 The Bridge12 X-IF system consists of four different sub-systems:
@@ -21,7 +21,7 @@ A schematic of the entire system is shown in the figure above. Most of the conne
 
 ## Synthesizer (SYN)
 <center>
-{{< figure_b12t src="/images/systems/xif/Synthesizer Schematic_20240605.png" width="800px">}}
+{{< figure_manuals src="/images/systems/xif/Synthesizer Schematic_20240605.png" width="800px">}}
 </center>
 
 The Bridge12 X-IF system has an integrated microwave synthesizer with two independent channels, ```LO1``` and ```LO2```. The signal of both channels is split into two signal paths. Both signals (```LO1``` and ```LO2```) are available on the back panel. ```LO1``` is also connected internally to the input of the [Pulse Forming Unit (PFU)](/systems/spectrometers/10-x-band-if/05_overview/#pulse-forming-unit). ```LO2``` is also available on the side panel of the X-IF system, below the signal (SIG) input.
@@ -30,7 +30,7 @@ Both microwave synthesizers are locked to the internal [10 MHz reference clock](
 
 ## Reference (REF)
 <center>
-{{< figure_b12t src="/images/systems/xif/10MHz Reference Schematic_20240605.png" width="800px">}}
+{{< figure_manuals src="/images/systems/xif/10MHz Reference Schematic_20240605.png" width="800px">}}
 </center>
 
 The Bridge12 X-IF system has an integrated oven-stabilized 10 MHz reference clock. Three ```10 MHz``` outputs of the reference clock are available on the backpanel. This can be used to sync other devices such as an AWG or Digitizer. One channel of the clock is internally connected to the synthesizer for phase locking.
@@ -43,7 +43,7 @@ The output level of all 10 MHz reference back panel connectors is 2 V<sub>pp</su
 
 ## Pulse Forming Unit (PFU)
 <center>
-{{< figure_b12t src="/images/systems/xif/PFU Overview Schematic_20240605.png" width="800px">}}
+{{< figure_manuals src="/images/systems/xif/PFU Overview Schematic_20240605.png" width="800px">}}
 </center>
 
 Pulses in the X-IF system are created by the Pulse Forming Unit (PFU). At the heart of the PFU is an I/Q mixer. Both channels, ```I``` and ```Q``` would normally be driven by an AWG. However, to create rectangular pulses at the ```LO1``` frequency, these channels can also be driven by rectangular pulses created by a pulse programmer.
@@ -64,7 +64,7 @@ An auxillary LO signal can be supplied to the IQ mixer by connecting the ```AUX 
 
 ## Receiver Unit (RCVR)
 <center>
-{{< figure_b12t src="/images/systems/xif/RCVR Overview Schematic_20240605.png" width="800px">}}
+{{< figure_manuals src="/images/systems/xif/RCVR Overview Schematic_20240605.png" width="800px">}}
 </center>
 
 The Bridge12 X-IF is equipped with a IQ mixer based Receiver Unit. The signal from the probe is connected to the ```SIG``` side panel connector.

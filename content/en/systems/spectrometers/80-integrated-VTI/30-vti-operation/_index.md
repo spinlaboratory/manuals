@@ -14,7 +14,7 @@ The following section provides information about day-to-day operation of the cry
 {{% /pageinfo %}}
 
 <center>
-{{< figure_b12t src="/images/systems/q-band-magnet/iVTI Schematics_600px.png" caption="Schematic of the iVTI">}}
+{{< figure_manuals src="/images/systems/q-band-magnet/iVTI Schematics_600px.png" caption="Schematic of the iVTI">}}
 </center>
 
 The iVTI operates by circulating helium gas in a closed-loop circuit. A schematic of the circuit is shown above. The following instructions assume the magnet is at its base temperature and the iVTI has passed [operational checks](/systems/spectrometers/80-integrated-vti/20-vti-getting-started/#prior-checks-before-operating-the-ivti).
@@ -45,7 +45,7 @@ Under normal conditions, a pressure of about 10 mbar can cover a wide range of t
 To operate at temperatures below 10 K, the pressure may have to be adjusted using the needle valve. In this case, the optimum value will correspond to the vapour pressure curve as shown in the figure below.
 
 <center>
-{{< figure_b12t src="/images/systems/q-band-magnet/He vapor pressure_600px.png" caption="Helium Vapor Pressure">}}
+{{< figure_manuals src="/images/systems/q-band-magnet/He vapor pressure_600px.png" caption="Helium Vapor Pressure">}}
 </center>
 
 In general, if the helium flow rate is too low there may not be enough cooling power available from the circulating helium and the system may not reach the base temperature of the iVTI. A slightly too high a flow rate and the system will not reach base temperature because it is not following the vapour pressure curve. 

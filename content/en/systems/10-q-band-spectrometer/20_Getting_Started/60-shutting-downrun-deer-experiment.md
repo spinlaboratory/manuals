@@ -30,7 +30,7 @@ Follow these steps to remove the sample:
 You should see a clean tuning picture (see figure below)
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/specman-4.png" alt="SpecMan4EPR tune mode">}}
+{{< figure_manuals src="/images/software/SpecMan/specman-4.png" alt="SpecMan4EPR tune mode">}}
 </center>
 
 To remove the sample:
@@ -51,7 +51,7 @@ Once the sample is removed the magnetic field can be ramped down.
 1. Open the window to control the field. From the ``DDI menu`` select ``Set Field form, FLD``.
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/specman-13.png" alt="SpecMan4EPR magnetic field control">}}
+{{< figure_manuals src="/images/software/SpecMan/specman-13.png" alt="SpecMan4EPR magnetic field control">}}
 </center>
 
 2. Enter 0 in the field for the magnetic field and hit return.

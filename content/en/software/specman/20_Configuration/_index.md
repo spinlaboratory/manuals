@@ -12,13 +12,13 @@ Typically, your EPR spectrometer will be delivered with a pre-configure version 
 To configure the different hardware component in SpecMan4EPR, open the Device Panel by clicking on the button labeled *Configuration of devices* (see button indicated by red box in figure below).
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/SM_Device_Config_800px.png">}}
+{{< figure_manuals src="/images/software/SpecMan/SM_Device_Config_800px.png">}}
 </center>
 
 Once you click the button the Device Configuration window will open.
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/SM-Device-Configuration-Basic-Access_600px.png">}}
+{{< figure_manuals src="/images/software/SpecMan/SM-Device-Configuration-Basic-Access_600px.png">}}
 </center>
 
 When you first open the Device Configuration window, you will be in *Basic Access* mode. In this mode, you can only view the parameters but you won't be able to change any parameters or safe a new configuration. For this you need to access the *Expert Mode*. In the *Basic Access* mode, the safe and load buttons are greyed out.
@@ -26,7 +26,7 @@ When you first open the Device Configuration window, you will be in *Basic Acces
 To access the *Expert Mode* click Expert Access button to the top right of the window. You will be prompted with a password window. Simply acknowledge the password in the window by pressing the *OK* button. The Device Configuration window will change to *Expert Mode* (see figure below).
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/SM-Device-Configuration-Expert-Mode_600px.png">}}
+{{< figure_manuals src="/images/software/SpecMan/SM-Device-Configuration-Expert-Mode_600px.png">}}
 </center>
 
 ### EPR Bridge
@@ -58,7 +58,7 @@ Name: BRIDGE
 A sample configuration is shown below.
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/SM-Device-Configuration-Bridge_600px.png">}}
+{{< figure_manuals src="/images/software/SpecMan/SM-Device-Configuration-Bridge_600px.png">}}
 </center>
 
 
@@ -84,7 +84,7 @@ Name: SRC
 A sample configuration is shown below.
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/SM-Device-Configuration-SRC_600px.png">}}
+{{< figure_manuals src="/images/software/SpecMan/SM-Device-Configuration-SRC_600px.png">}}
 </center>
 
 ### Digitizer

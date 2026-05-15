@@ -68,7 +68,7 @@ Cooling the magnet is simply a matter of starting the helium compressor:
 Typically the 1<sup>st</sup> stage of the cryocooler will cool fastest followed by the 2<sup>nd</sup> stage and then the magnet. For this magnet, the cooldown time is typically about 22 hrs. It should be noted that initially, the operating pressure at the compressor will be high and then reduce (typically by 20 %) as the magnet temperature drops and the cryocooler is required to do less work to remove heat from the system. Once the base temperature of the magnet is achieved the magnet may be energized.
 
 <center>
-{{< figure_b12t src="/images/systems/q-band-magnet/Q-Band_Magnet_Cooldown_600px.png" caption="Temperatures of a Typical Magnet Cooldown">}}
+{{< figure_manuals src="/images/systems/q-band-magnet/Q-Band_Magnet_Cooldown_600px.png" caption="Temperatures of a Typical Magnet Cooldown">}}
 </center>
 
 Temperatures for a typical cooldown of the magnet are shown in the figure above. The following table has shows some typical temperatures once the magnet is at its base temperature.

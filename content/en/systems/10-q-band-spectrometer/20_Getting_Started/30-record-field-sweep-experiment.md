@@ -14,7 +14,7 @@ In this section we will provide general instructions on how to record an echo-de
 4. Hit the run button to start the experiment.
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/specman-8.png" alt="SpecMan4EPR field sweep spectrum">}}
+{{< figure_manuals src="/images/software/SpecMan/specman-8.png" alt="SpecMan4EPR field sweep spectrum">}}
 </center>
 
 Once the experiment is finished, data will be saved automatically by SpecMan4EPR. In this particular experiment the software will set a magnetic field and will wait for the field to be settled (SetMode: SetAndWait). While this is the slowest mode to record a spectrum, it will give the most accurate results. At the end of the experiment SpecMan4EPR will return the field to the start value.
@@ -25,7 +25,7 @@ Note down the value of the magnetic field for the maximum echo amplitude. You ca
 2. From the drop-down menu select Show Hint.
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/specman-9.png" alt="SpecMan4EPR hint mode">}}
+{{< figure_manuals src="/images/software/SpecMan/specman-9.png" alt="SpecMan4EPR hint mode">}}
 </center>
 
 In this particular experiment the field position for the maximum echo amplitude is 1.21865 T.

@@ -31,7 +31,7 @@ In the next step we can setup the PELDOR/DEER experiment:
 When you hit the run button, SpecMan4EPR first calculates the entire pulse sequence, including the phase cycle (SpecMan4EPR will step through all variables and you can see this for the different axis). The full pulse sequence is then uploaded to the AWG and the experiment is started. Once a scan is finished and the data is transferred to SpecMan4EPR.
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/specman-11.png" alt="SpecMan4EPR PELDOR/DEER trace">}}
+{{< figure_manuals src="/images/software/SpecMan/specman-11.png" alt="SpecMan4EPR PELDOR/DEER trace">}}
 </center>
 
 Once the experiment is finished, SpecMan4EPR will automatically save the results. If you want to stop the experiment during the acquisition, you have two choices:
@@ -46,7 +46,7 @@ If long signal averaging is required to obtain a sufficient signal to noise rati
 1. In the experiment panel, select the ``queue`` tab (see figure below) top open the queue window.
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/specman-12.png" alt="SpecMan4EPR experiment queue">}}
+{{< figure_manuals src="/images/software/SpecMan/specman-12.png" alt="SpecMan4EPR experiment queue">}}
 </center>
 
 2. Click ``+ button`` (with the green + sign) to add an experiment to queue. This will queue an experiment using the parameters that are currently set in the parameter section.

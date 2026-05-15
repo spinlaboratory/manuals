@@ -16,7 +16,7 @@ Digital demodulation is highly recommended for the X-Band IF system. Even an off
 The example below shows a digitally demodulated signal of a 2-pulse Hahn echo of a sample of BDPA in polystyrene, recorded at Q-band frequencies.
 
 <center>
-{{< figure_b12t src="/images/systems/xif/q-band-bdpa-ps-2pecho_600px.png">}}
+{{< figure_manuals src="/images/systems/xif/q-band-bdpa-ps-2pecho_600px.png">}}
 </center>
 
 We recommend using an intermediate frequency of about half the bandwidth of the digitizer. For example, if the digitizer has an input bandwidth of 400 MHz, we recommend to choose an intermediate frequency of 200 MHz.

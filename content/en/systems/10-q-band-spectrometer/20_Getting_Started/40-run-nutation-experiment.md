@@ -22,7 +22,7 @@ To perform the nutation experiment follow these steps:
 The result of the experiment is shown in the figure below.
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/specman-10.png" alt="SpecMan4EPR Rabi oscillations">}}
+{{< figure_manuals src="/images/software/SpecMan/specman-10.png" alt="SpecMan4EPR Rabi oscillations">}}
 </center>
 
 Use the cursor and *Hint Mode* to determine the pulse length of the inversion pulse. In this case it is 10 ns for an pulse amplitude of 1. 
