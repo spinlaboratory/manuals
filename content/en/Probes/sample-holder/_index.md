@@ -5,6 +5,7 @@ weight:         70
 type:           docs
 date:           2023-01-24
 description:    "Online documentation of the Sample Stick used for all Bridge12 EPR probes"
+Draft:          True
 ---
 The Sample Stick described in this section is used for most Bridge12 EPR probes (and some DNP probes).
 

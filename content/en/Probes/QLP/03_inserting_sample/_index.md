@@ -8,7 +8,7 @@ description:    "How to insert the sample into the QLP probe"
 draft:          False
 ---
 ### Sample Capillary ###
-For the Bridge12 QLP-1.6 mm please use a sample capillary with a maximum OD of 1.6 mm. A link to the sample tube vendor can be found on the [Cosumables Page](/probes/sample-holder/consumables/#q-band-epr-spectroscopy).
+For the QLP-1.6 mm please use a sample capillary with a maximum OD of 1.6 mm. A link to the sample tube vendor can be found on the [Cosumables Page](/probes/sample-holder/consumables/#q-band-epr-spectroscopy).
 
 ### Mounting the Sample ###
 Please follow the instructions for using the sample stick to mount the EPR sample to the [Sample Stick](/probes/sample-holder/). In general, the distance between the center of the sample and the bottom of the sample holder should be about 1 inch (25.4 mm) (see figure below).

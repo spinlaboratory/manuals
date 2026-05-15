@@ -6,7 +6,7 @@ type:           docs
 date:           2023-03-27
 description:    ""
 ---
-The Bridge12 QLP EPR probe is shipped in a sturdy case to protect the probe from damages during transportation (see picture below).
+The QLP EPR probe is shipped in a sturdy case to protect the probe from damages during transportation (see picture below).
 
 <center>
 {{< figure src="/images/probes/bridge12-qlp/qlp-probe-case.png" caption="Bridge12 QLP Overview" width="600px">}}
