@@ -4,9 +4,9 @@ linkTitle:      "Connecting the Probe"
 weight:         20
 type:           docs
 date:           2023-03-27
-description:    "How to connect the Bridge12 QLP to the EPR bridge"
+description:    "How to connect the QLP to the EPR bridge"
 ---
-A rectangular waveguide port (WR-28) is located at the top of the probe. The waveguide flange is a UG-599/U with 4 tapped holes, [screw size #4-40](https://en.wikipedia.org/wiki/Unified_Thread_Standard). This waveguide port is used to connect the QLP probe to the EPR spectrometer. The probe waveguide has an integrated vacuum window to seal the probe to the atmosphere, when operating the probe at cryogenic temperatures.
+A rectangular waveguide port (WR-28) is located at the top of the QLP probe. The waveguide flange is a UG-599/U with 4 tapped holes, [screw size #4-40](https://en.wikipedia.org/wiki/Unified_Thread_Standard). This waveguide port is used to connect the QLP probe to the EPR spectrometer. The probe waveguide has an integrated vacuum window to seal the probe to the atmosphere, when operating the probe at cryogenic temperatures.
 
 {{% pageinfo color="warning" %}}
 ### Warning
@@ -14,7 +14,7 @@ Do not drop any screws or washers into the waveguide port. This could potentiall
 
 If parts are accidentally dropped into the waveguide, do not use any sharp objects to retrieve the part. Instead, flip the probe over and gently shake the probe to remove the dropped item.
 
-If a part got stuck inside the waveguide and you are not able to retrieve it, do not connect the probe to the spectrometer, and contact Bridge12 at info@bridge12.com.
+If a part got stuck inside the waveguide and you are not able to retrieve it, do not connect the probe to the spectrometer.
 {{% /pageinfo %}}
 
 #### Connecting the Probe to the Spectrometer

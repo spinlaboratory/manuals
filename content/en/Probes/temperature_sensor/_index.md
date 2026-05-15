@@ -5,7 +5,7 @@ weight:         80
 type:           docs
 date:           2023-03-28
 description:    ""
-draft:          False
+draft:          True
 ---
 Most Bridge12 EPR probes have an integrated, calibrated [Cernox](https://www.lakeshore.com/products/categories/overview/temperature-products/cryogenic-temperature-sensors/cernox) temperature sensor. This allows the user to get an accurate reading of the sample temperature even when using a liquid cryogen-free (dry) cryostat with an exchange gas. The temperature sensor is compatible with all temperature controllers commonly used to regulate the cryostat temperature. 
 

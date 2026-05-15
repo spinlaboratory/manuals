@@ -7,7 +7,7 @@ date:           2023-03-27
 description:    "QLP Probe Description"
 ---
 ## Overview ##
-The Bridge12 QLP probe (B12TQLP or QLP) is a probe head for pulsed Q-Band (34 - 36 GHz) EPR spectroscopy. The probe is optimized for pulsed dipolar experiments such as [Double Electron-Electron Resonance (DEER/PELDOR)](/probes/bridge12-qlp/06_references/#peldor) experiments, [Relaxation Induced Dipolar Modulation Enhancement (RIDME)](/probes/bridge12-qlp/06_references/#ridme) experiments, etc.
+The QLP EPR probe (QLP-1.6 or QLP-2.5) is an EPR probe for pulsed Q-Band (34 - 36 GHz) EPR spectroscopy. The probe is optimized for pulsed dipolar experiments such as [Double Electron-Electron Resonance (DEER/PELDOR)](/probes/bridge12-qlp/06_references/#peldor) experiments, [Relaxation Induced Dipolar Modulation Enhancement (RIDME)](/probes/bridge12-qlp/06_references/#ridme) experiments, etc.
 
 Pulsed Electron Paramagnetic Resonance (EPR) spectroscopy using high-power microwave pulses or arbitrary waveform generated (AWG) broadband pulses require a large resonator bandwidth (low resonator Q) to avoid distortion of the pulse shape. However, large resonator bandwidth often comes at the cost of a reduced microwave conversion factor. Loop-Gap Resonators (LGR) combine all these desired features together with an excellent field homogeneity across the sample. This is especially important when using AWG generated broadband pulses.
 
@@ -17,7 +17,7 @@ At the heart of the probe is a Loop-Gap Resonator (LGR), with a large conversion
 {{< figure src="/images/probes/bridge12-qlp/qlp-overview.png" caption="Bridge12 QLP Overview" width="500px">}}
 </center>
 
-An overview of the Bridge12 QLP probe is given in the figure shown above. For low-temperature measurements, the probe can be operated inside a cryostat. The Bridge12 QLP is compatible with commonly used cyrostats, such as the [Oxford Instruments](https://www.oxinst.com/) cryostat model CF935.
+An overview of the QLP probe is given in the figure shown above. For low-temperature measurements, the probe can be operated inside a cryostat. The QLP is compatible with commonly used cyrostats, such as the [Oxford Instruments](https://www.oxinst.com/) cryostat model CF935.
 
 The main features of the probe are:
 * The resonator
@@ -33,14 +33,12 @@ Optical access to the sample location for e.g. light/laser irradiation is possib
 
 1. Through the sample holder/stick (for fiber access only).
 2. Free-space access through the bottom of the resonator.
-3. Free-space access perpendicular to the sample axis (please inquire with Bridge12 about this option).
-
-If you like to use an optical fiber to irradiate the sample using the sample holder/stick (option 1), please contact Bridge12 at info@bridge12.com for further information.
+3. Free-space access perpendicular to the sample axis (please inquire about this option).
 
 
 ### Temperature Sensor ###
 
-The Bridge12 QLP probe has a built-in, calibrated [Cernox](https://www.lakeshore.com/products/categories/overview/temperature-products/cryogenic-temperature-sensors/cernox) temperature sensor. The connector is located on the top of the probe. Please use the cable that came with the probe to connect the probe to the temperature controller.
+The QLP probe has a built-in, calibrated [Cernox](https://www.lakeshore.com/products/categories/overview/temperature-products/cryogenic-temperature-sensors/cernox) temperature sensor. The connector is located on the top of the probe. Please use the cable that came with the probe to connect the probe to the temperature controller.
 
 More information about the pin-out can be found in the section [Temperature Sensor](/probes/temperature_sensor/).
 

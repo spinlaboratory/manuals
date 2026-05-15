@@ -23,14 +23,13 @@ General probe specifications:
 
 ### Sample Access ###
 
-Currently, the Bridge12 QLP is only available for samples with an OD of up to 1.6 mm.
+Currently, the QLP is only available for samples with an OD of up to 1.6 mm.
 
 | Resonator Model      | Description                                            |
 | -------------------- | ------------------------------------------------------ |
 | QLP-1.6              | Resonator height: 4 mm <br>  Maximum Sample OD: 1.6 mm |
 | QLP-2.5 <sup>*</sup> | Resonator height: 4 mm <br>  Maximum Sample OD: 2.5 mm |
 
-<sup>*</sup> Resonator currently under development. Please contact info@bridge12.com if you are interested in this specific resonator model.
 
 ### What's next? ###
 * Learn about [Maintenance](/probes/bridge12-qlp/06_maintenance/).

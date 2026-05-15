@@ -7,9 +7,9 @@ date:           2023-03-27
 description:    "References to pulsed dipolar EPR spectroscopy and articles citing the QLP probe"
 draft:          False
 ---
-## References Specific to the Bridge12 QLP Probe ##
+## References Specific to the QLP Probe ##
 
-List of links to scientific publications in which the Bridge12 QLP resonator was used:
+List of links to scientific publications in which the QLP resonator was used:
 
 1. Hasanbasri, Zikri, Nicholas A. Moriglioni, and Sunil Saxena. “Efficient Sampling of Molecular Orientations for Cu(II)-Based DEER on Protein Labels.” Physical Chemistry Chemical Physics, March 15, 2023. https://doi.org/10.1039/D3CP00404J.
 
