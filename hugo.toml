@@ -1,10 +1,13 @@
-baseURL                                 = "https://spinlaboratory.github.io/"
+baseURL                                 = "https://spinlaboratory.github.io/manuals/"
 locale                                  = 'en-us'
 title                                   = 'Manuals'
 
+
 theme = ["github.com/google/docsy", "github.com/google/docsy/dependencies"]
 
-relativeURLs = true
+relativeURLs = false
+canonifyURLs = false
+
 
 # Language settings
 contentDir                              = "content/en"
