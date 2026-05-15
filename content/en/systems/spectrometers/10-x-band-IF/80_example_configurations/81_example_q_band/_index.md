@@ -9,7 +9,7 @@ description:  "Example configuration for pulsed Q-Band EPR spectroscopy."
 A typical configuration of the X-Band IF system for pulsed Q-Band spectroscopy is shown in the figure below. Connections that are not required are greyed out.
 
 <!-- <center>
-{{< figure_b12t src="/images/software/X_Band_IF/X_Band_Config_BackPanelLabels.png">}}
+{{< figure_manuals src="/images/software/X_Band_IF/X_Band_Config_BackPanelLabels.png">}}
 </center>
 
 | Connector | Description |

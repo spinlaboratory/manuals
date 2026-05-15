@@ -14,7 +14,7 @@ The expected pulse length for a 180º-pulse, using a maximally overcoupled [Brid
 {{% /pageinfo %}}
 
 <center>
-{{< figure_b12t src="/images/systems/amplifiers/Q40/Q-Band 40 W Amplifier Schematic_600px.png">}}
+{{< figure_manuals src="/images/systems/amplifiers/Q40/Q-Band 40 W Amplifier Schematic_600px.png">}}
 </center>
 
 A schematic of the amplifier is shown in the figure above. The amplifier has an integrated gate, isolator, and coupler. The input connector for the amplifier is a 2.92 mm connector, while the output is a WR-28 waveguide output.
@@ -54,7 +54,7 @@ Do not Hot Switch the amplifier. Hot Switching occurs, when the blanking gate is
 Please refer to the timing diagram and the values below for recommended pulse timing.
 
 <center>
-{{< figure_b12t src="/images/systems/amplifiers/Q40/Q-Band 40 W Amplifier Timing Diagram_600px.png">}}
+{{< figure_manuals src="/images/systems/amplifiers/Q40/Q-Band 40 W Amplifier Timing Diagram_600px.png">}}
 </center>
 
 * Gate lead, t<sub>g,lead</sub> > 100 ns (200 ns recommended)

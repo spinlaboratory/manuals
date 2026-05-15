@@ -8,7 +8,7 @@ description:    "Bridge12 X-Band IF System for Pulse EPR Spectroscopy"
 ---
 
 <center>
-{{< figure_b12t src="/images/systems/xif/x-band-if-2.png" >}}
+{{< figure_manuals src="/images/systems/xif/x-band-if-2.png" >}}
 </center>
 
 The Bridge12 X-Band IF system is at the heart of all Bridge12 EPR spectrometers. The system is highly modular. For X-Band EPR spectroscopy only a high-power microwave amplifier, digitizer and AWG is required.

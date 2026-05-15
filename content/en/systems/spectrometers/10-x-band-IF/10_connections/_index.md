@@ -9,7 +9,7 @@ description:    "Backpanel connections of the X-Band IF system."
 Below, please find a list and description of the backpanel connectors of the X-Band IF system. Please refer to the figure below for the location of connections.
 
 <center>
-{{< figure_b12t src="/images/systems/xif/BackPanelLabels_800px.png">}}
+{{< figure_manuals src="/images/systems/xif/BackPanelLabels_800px.png">}}
 </center>
 
 {{% pageinfo color="warning" %}}

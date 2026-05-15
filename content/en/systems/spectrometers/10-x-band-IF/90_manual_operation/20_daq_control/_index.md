@@ -10,7 +10,7 @@ Please make sure the control software for the DAQ interface is installed. If you
 
 ## Connecting to the DAQ Interface
 <center>
-{{< figure_b12t src="/images/systems/xif/Connect_800px.png">}}
+{{< figure_manuals src="/images/systems/xif/Connect_800px.png">}}
 </center>
 
 To connect to the DAQ interface follow these steps:
@@ -22,7 +22,7 @@ To connect to the DAQ interface follow these steps:
 
 ## Digital Input/Output Control
 <center>
-{{< figure_b12t src="/images/systems/xif/DIO Lines_600px.PNG">}}
+{{< figure_manuals src="/images/systems/xif/DIO Lines_600px.PNG">}}
 </center>
 
 To control the digital input/output lines click on the menu item *Dashboard* (see figure above). Each of the lines can be configured as an input or output by selecting the control from the drop-down menu. If the line is configured as an input the indicator to the left will show whether the line is logic high or low. If the line is configured as an output, the status can be changed by selecting the desired status from the drop-down menu.
@@ -42,7 +42,7 @@ Below is a list of the different digital channels used by the X-Band IF system.
 
 ## Analog Output Control
 <center>
-{{< figure_b12t src="/images/systems/xif/Analog Output_600px.PNG">}}
+{{< figure_manuals src="/images/systems/xif/Analog Output_600px.PNG">}}
 </center>
 
 The value of the various analog outputs can be controlled from the *Register Matrix* panel. The values for TDAC0 - TDAC3 can be set between -10 and +10 V, with a resolution of 16 bit.

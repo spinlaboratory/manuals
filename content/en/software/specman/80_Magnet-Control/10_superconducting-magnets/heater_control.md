@@ -8,7 +8,7 @@ draft:        false
 To change the magnetic field first the superconducting heater needs to be activated. This will connect the magnet power supply to the main coil and will allow the user to increase or decrease the current in the main coil and therefore moving the magnetic field.
 
 <center>
-{{< figure_b12t src="/images/software/SpecMan/magnet_control/heater_control_800px.png" alt="SpecMan4EPR Heater Control">}}
+{{< figure_manuals src="/images/software/SpecMan/magnet_control/heater_control_800px.png" alt="SpecMan4EPR Heater Control">}}
 </center>
 
 The value of the magnetic field is shown in two different colors, depending if the heater switch is activated or not:

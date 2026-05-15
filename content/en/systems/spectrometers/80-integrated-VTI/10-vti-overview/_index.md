@@ -11,7 +11,7 @@ description:    "How the Integrated VTI (iVTI) Works"
 The integrated Variable Temperature Insert (iVTI) is a liquid cryogen-free (dry) cryostat built into the superconducting magnet of the EPR spectrometer. It operates by circulating helium gas around a closed-loop circuit cooled by the same cryocooler that is used to cool the superconducting magnet coil. The iVTI can operate continuously and in conjunction with the magnet.
 
 <center>
-{{< figure_b12t src="/images/systems/q-band-magnet/iVTI Schematics_600px.png" caption="Schematic of the iVTI">}}
+{{< figure_manuals src="/images/systems/q-band-magnet/iVTI Schematics_600px.png" caption="Schematic of the iVTI">}}
 </center>
 
 A schematic of the iVTI is shown above. High quality helium gas (grade 5) is stored at room temperature in the helium reservoir and a dry (oil-free) pump drives drives the circulation of the helium gas through a closed cycle circuit. Under normal operations, the bypass valve (V16) is closed and the helium reservoir valve (V12) and iVTI outlet valve (V11) is open. The helium gas passes from the helium reservoir and into the iVTI circuit via the self-sealing helium gas inlet.
