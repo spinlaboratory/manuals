@@ -3,7 +3,7 @@ title:        "SpecMan Magnet Control GUI"
 linkTitle:    "Magnet GUI"
 type:         docs
 weight:       10
-draft:        false
+draft:        True
 ---
 The superconducting magnet can be completely controlled through the SpecMan4EPR software using the. From the SpecMan magnet GUI the user can activate the heater switches, move/sweep the magnet field, and can put the magnet in persistent mode.
 

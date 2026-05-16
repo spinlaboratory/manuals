@@ -3,7 +3,7 @@ title:          "Overview of the iVTI Operation"
 linkTitle:      "iVTI Overview"
 type:           docs
 weight:         10
-draft:          false
+draft:          True
 description:    "How the Integrated VTI (iVTI) Works"
 ---
 ## iVTI - How it Works ##

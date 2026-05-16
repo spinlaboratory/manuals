@@ -3,7 +3,7 @@ title:          "Operating the iVTI"
 linkTitle:      "iVTI Operation"
 type:           docs
 weight:         30
-draft:          false
+draft:          True
 description:    "How to Operate the iVTI"
 ---
 {{% pageinfo color="info" %}}

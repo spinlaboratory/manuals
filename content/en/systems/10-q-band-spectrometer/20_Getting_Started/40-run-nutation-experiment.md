@@ -3,7 +3,7 @@ title:          "Run a B1 Nutation Experiment"
 linkTitle:      "Run a Nutation Experiment"
 type:           docs
 weight:         40
-draft:          False
+draft:          True
 description:    "How to run a B1 nutation experiment"
 ---
 In this section we will provide general instructions on how to run a nutation experiment to determine the optimum length of the inversion pulse.

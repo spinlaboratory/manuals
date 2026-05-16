@@ -5,7 +5,7 @@ weight:         50
 type:           docs
 date:           2023-03-27
 description:    "How to tune the QLP probe"
-draft:          False
+draft:        True
 ---
 The frequency of the empty resonator is typically between 35.5 and 36 GHz. This may be outside of the normal operating frequency of a typical EPR spectrometer, however, inserting the sample into the resonator, this will shift the frequency to lower values (dielectric loading) as shown in the figure below. The amount of the frequency shift depends on the size and material of the sample capillary and the nature of the sample (e.g. polymer at room temperature, frozen aqueous solution, etc.). Please see the section [Consumables](/probes/sample-holder/consumables/#q-band-epr-spectroscopy) for the recommended sample size.
 

@@ -3,6 +3,6 @@ title:          "Integrated VTI (iVTI)"
 linkTitle:      "Integrated VTI"
 type:           docs
 weight:         80
-draft:          false
+draft:          True
 description:    ""
 ---

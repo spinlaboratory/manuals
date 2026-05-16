@@ -3,7 +3,7 @@ title:        "Heater Control"
 linkTitle:    "Heater Control"
 type:         docs
 weight:       20
-draft:        false
+draft:        True
 ---
 To change the magnetic field first the superconducting heater needs to be activated. This will connect the magnet power supply to the main coil and will allow the user to increase or decrease the current in the main coil and therefore moving the magnetic field.
 

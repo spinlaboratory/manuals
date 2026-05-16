@@ -5,7 +5,7 @@ weight:         70
 type:           docs
 date:           2026-05-15
 description:    "QLP Probe Description"
-draft:          False
+draft:        True
 ---
 ## Probe Specifications ##
 

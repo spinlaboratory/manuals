@@ -5,7 +5,7 @@ weight:         40
 type:           docs
 date:           2026-05-15
 description:    "How to insert the sample into the QLP probe"
-draft:          False
+draft:        True
 ---
 
 ### Sample Capillary ###

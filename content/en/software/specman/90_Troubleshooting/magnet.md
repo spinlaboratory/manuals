@@ -3,7 +3,7 @@ title:          "Magnet"
 linkTitle:      "Magnet"
 type:           docs
 weight:         30
-draft:          False
+draft:          True
 description:    "Troubleshooting magnet issues"
 ---
 ## Magnet Control ##

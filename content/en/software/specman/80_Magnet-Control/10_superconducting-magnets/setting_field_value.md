@@ -3,7 +3,7 @@ title:        "Operating the Magnet"
 linkTitle:    "Operating the Magnet"
 type:         docs
 weight:       30
-draft:        false
+draft:        True
 ---
 Depending on the type of experiment the magnet field is either:
 

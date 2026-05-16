@@ -3,7 +3,7 @@ title:          "Cooling Down the Magnet"
 linkTitle:      "Magnet Cooldown"
 type:           docs
 weight:         20
-draft:          false
+draft:          True
 description:    "How to cool down the magnet"
 ---
 {{% pageinfo color="warning" %}}

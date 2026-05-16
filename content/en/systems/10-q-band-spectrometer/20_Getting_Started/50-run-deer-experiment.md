@@ -3,7 +3,7 @@ title:          "Run a PELDOR/DEER Experiment"
 linkTitle:      "Run PELDOR/DEER Experiments"
 type:           docs
 weight:         50
-draft:          False
+draft:          True
 description:    "How to perform a PELDOR/DEER measurement"
 ---
 If you followed the instructions of the previous sections you have all parameters to run a PELDOR/DEER experiment. In this section we show how to setup a PELDOR/DEER experiment. Note, that some parameters such as shots, trace, scans ... are set to default values. We recommend to start with these parameters and adjust them later if needed.
