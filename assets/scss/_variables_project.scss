@@ -4,26 +4,31 @@ Add styles or override variables from the theme here.
 
 */
 
-$primary:                   #054169;
-$secondary:                 #0071BC;
+$primary:                         #054169;
+$secondary:                       #0071BC;
 
-$white:                     #FFFFFF;
+$white:                           #FFFFFF;
 
-$info:                      #FF9300;
-$warning:                   #FF0011;
+$info:                            #FF9300;
+$warning:                         #FF0011;
 
-$enable-gradients:          false;
-$enable-rounded:            false;
-$enable-shadows:            false;
+$enable-gradients:                  false;
+$enable-rounded:                    false;
+$enable-shadows:                    false;
 
-$link-color:                #054169;
-$link-decoration:           none !default;
-$link-hover-color:          #0071BC;
-$link-hover-decoration:     none !default;
+$link-color:                      #054169;
+$link-decoration:                   none !default;
+$link-hover-color:                #0071BC;
+$link-hover-decoration:             none !default;
 
 
+// $navbar-dark-color:         $white;
+// $navbar-dark-hover-color:   $white;
 
-$navbar-dark-hover-color:   $white;;
-$navbar-light-hover-color:  $white;
-$td-navbar-bg-color:        $secondary;
+$navbar-light-color:                $white;
+$navbar-light-hover-color:          $primary;
+$td-navbar-bg-color:                $secondary;
+
+$navbar-light-brand-color:          $white;
+$navbar-light-brand-hover-color:    $primary;
 
