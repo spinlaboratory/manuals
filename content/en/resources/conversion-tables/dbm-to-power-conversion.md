@@ -1,5 +1,5 @@
 ---
-title:        "Convesrion: dBm to Power"
+title:        "Conversion: dBm to Power"
 linkTitle:    "dBm to Power"
 type:         docs
 weight:       20

@@ -3,7 +3,7 @@ title:          "SpecMan4EPR"
 linkTitle:      "SpecMan4EPR"
 type:           docs
 weight:         10
-draft:          false
+draft:          True
 description:    "Online documentation for SpecMan4EPR"
 ---
 Bridge12 spectrometers use [SpecMan4EPR](https://specman4epr.com/index.html) for data acquisition and spectrometer control. The software is developed by [Prof. Boris Epel](https://www.nist.gov/people/boris-epel) and used by many EPR labs [around the world](https://specman4epr.com/application.html).

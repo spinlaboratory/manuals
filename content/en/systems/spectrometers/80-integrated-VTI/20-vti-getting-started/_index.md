@@ -3,7 +3,7 @@ title:          "Getting Started with the iVTI"
 linkTitle:      "iVTI Getting Started"
 type:           docs
 weight:         20
-draft:          false
+draft:          True
 description:    "Getting Started with the iVTI"
 ---
 {{% pageinfo color="info" %}}

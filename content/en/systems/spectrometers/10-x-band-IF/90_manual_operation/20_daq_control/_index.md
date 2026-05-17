@@ -3,7 +3,7 @@ title:        "DAQ Control"
 linkTitle:    "DAQ"
 type:         docs
 weight:       20
-draft:        False
+draft:        True
 description:  "How to control the analog and digital lines of the X-Band IF system manually."
 ---
 Please make sure the control software for the DAQ interface is installed. If you haven't done so, you can download it [here](https://cdn.docsie.io/file/workspace_u4AEu22YJT50zKF8J/doc_VDWGWsJAhd453cYSI/boo_9BFzMKFachlhscG9Z/file_0VQecfNudEDcCn8dq/labjack-2019-05-20.exe).

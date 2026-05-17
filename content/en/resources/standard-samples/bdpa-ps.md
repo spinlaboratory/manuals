@@ -3,7 +3,7 @@ title:        "BDPA in Polystyrene"
 linkTitle:    "BDPA/PS"
 type:         docs
 weight:       10
-draft:        false
+draft:        True
 description:    "Preparation of a BDPA in PS sample for EPR Spectroscopy"
 ---
 {{% pageinfo color="warning" %}}

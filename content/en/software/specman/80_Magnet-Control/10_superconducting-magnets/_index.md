@@ -3,7 +3,7 @@ title:        "Superconducting Magnets"
 linkTitle:    "Superconducting Magnets"
 type:         docs
 weight:       10
-draft:        false
+draft:        True
 ---
 {{% pageinfo color="primary" %}}
 ### Important ###

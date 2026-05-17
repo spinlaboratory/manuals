@@ -5,7 +5,7 @@ weight:         20
 type:           docs
 date:           2026-05-15
 description:    "Unpacking and storing the QLP probe head"
-draft:          False
+draft:        True
 ---
 
 ## Unpacking the Probe ##

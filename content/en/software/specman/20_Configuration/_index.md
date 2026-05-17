@@ -3,7 +3,7 @@ title:          "Configuration"
 linkTitle:      "Configuration"
 type:           docs
 weight:         20
-draft:          False
+draft:          True
 description:    "Sample Configuration for SpecMan"
 ---
 Typically, your EPR spectrometer will be delivered with a pre-configure version of SpecMan4EPR. Below, we provide a sample configuration. However, the exact values for certain parameters (e.g. COM port) may differ from system to system.

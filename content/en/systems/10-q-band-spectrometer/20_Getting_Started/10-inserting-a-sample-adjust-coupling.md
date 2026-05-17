@@ -3,7 +3,7 @@ title:          "Inserting a Sample and Adjust the Resonator Coupling"
 linkTitle:      "Inserting a Sample"
 type:           docs
 weight:         10
-draft:          False
+draft:          True
 description:    "How to insert the sample into the spectrometer"
 ---
 The following section provides a step-by-step procedure how to insert the sample into the EPR probe and adjust the iris coupling of the resonator.

@@ -3,7 +3,7 @@ title:          "Shutting Down the Spectrometer"
 linkTitle:      "Shutting Down"
 type:           docs
 weight:         60
-draft:          False
+draft:          True
 description:    "How to shut down the spectrometer once the experiment is finished"
 ---
 Once all experiments have finished you can shut down the spectrometer.

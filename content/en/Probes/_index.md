@@ -6,7 +6,7 @@ weight:         30
 menu:
   main:
     weight:     30
-draft:          false
+draft:        True
 ---
 
 {{% pageinfo color="primary" %}}

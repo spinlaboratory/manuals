@@ -3,7 +3,7 @@ title:          "Record a Field Sweep Spectrum"
 linkTitle:      "Record Field Sweep Spectrum"
 type:           docs
 weight:         30
-draft:          False
+draft:          True
 description:    "How to record an echo-detected field sweep spectrum"
 ---
 In this section we will provide general instructions on how to record an echo-detected field sweep spectrum.
