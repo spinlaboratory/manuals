@@ -1,21 +1,26 @@
 ---
-title:          "Inserting the Sample into the Probe"
-linkTitle:      "Inserting the Sample"
-weight:         40
+title:          "Inserting a Sample into the Probe"
+linkTitle:      "Inserting a Sample"
+weight:         30
 type:           docs
-date:           2026-05-15
-description:    "How to insert the sample into the QLP probe"
-draft:        True
+date:           2026-05-23
+description:    "Inserting a Sample Into the QLP Probe Head"
+draft:          False
 ---
 
-### Sample Capillary ###
-The maximum recommended OD for the sample capillary the QLP-1.6 is 1.6 mm. For the QLP-2.5 it is 2.5 mm. A link to vendors providing the appropriate sample tubes can be found on the [Cosumables Page](/probes/sample-holder/consumables/#q-band-epr-spectroscopy).
+The table below summarizes the dimensions for the QLP-1.6 and QLP-2.5 probe.
 
-### Mounting the Sample ###
-Please follow the instructions for using the sample stick to mount the EPR sample to the [Sample Stick](/probes/sample-holder/). In general, the distance between the **center** of the sample and the bottom of the sample holder should be about 1 inch (25.4 mm) (see figure below).
+| Probe | Max. OD | Typical ID | Source |
+| ----- |:-------:|:----------:|:------:|
+| QLP-1.6 | 1.6 mm | 1.1 mm | [Link to Vendor]() |
+| QLP-2.5 | 2.5 mm | 2.2 mm | [Link to Bruker Webstore]() |
+
+
+## Mounting the Sample ##
+Please follow the instructions for using the sample stick to mount the EPR sample to the [Sample Stick](/probes/sample-holder/). In general, the distance between the **center** of the sample and the bottom of the sample holder should be 1 inch (25.4 mm) (see figure below).
 
 <center>
-{{< figure src="/manuals/images/probes/bridge12-qlp/06-Sample_Holder_Assembly.png" caption="Recommended distance between the center of the sample and the bottom of the sample holder" width="300px">}}
+{{< figure src="/manuals/images/probes/QLP/06-Sample_Holder_Assembly.png" caption="Recommended distance between the center of the sample and the bottom of the sample holder" width="300px">}}
 </center>
 
 ### Inserting the Sample Stick

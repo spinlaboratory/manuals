@@ -1,10 +1,10 @@
 ---
-title:        "Conversion: dBm to Power"
-linkTitle:    "dBm to Power"
-type:         docs
-weight:       20
-draft:        false
-description:    "dBm to power conversion table"
+title:          "Conversion: dBm to Power"
+linkTitle:      "dBm to Power"
+type:           docs
+weight:         20
+draft:          false
+description:    "Conversion Table dBm to power (W)"
 ---
 | P (dBm) | P (W) | P (dBm) | P (W)| P (dBm) | P(W) | P (dBm) | P (W)|
 |:-------:|:-----:|:-------:|:----:|:-------:|:----:|:-------:|:----:|

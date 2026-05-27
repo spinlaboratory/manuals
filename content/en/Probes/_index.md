@@ -1,13 +1,16 @@
 ---
-title:          "Probes"
-linkTitle:      "EPR Probe Heads"
+title:          "Probes and Accessories"
+linkTitle:      "Probes and Accessories"
 type:           docs
 weight:         30
 menu:
   main:
     weight:     30
-draft:        True
+draft:          False
+description:    ""
 ---
+
+In this section, you can find the online documentation of some of our EPR probe heads. To keep the documentation easily up to date, we currenlty do not distribute paper manuals for the QLP probe.
 
 {{% pageinfo color="primary" %}}
 
@@ -15,5 +18,3 @@ draft:        True
 Please read the documentation carefully to avoid any damages to our EPR probes.
 
 {{% /pageinfo %}}
-
-Currently, we do not distribute paper manuals with the QLP probe. This allows us to keep the documentation easily up to date.
