@@ -1,6 +1,8 @@
 baseURL = "https://spinlaboratory.github.io/manuals/"
-languageCode = "en-us"
-title = "Manuals"
+
+locale = 'en-us'
+
+title = 'Manuals'
 
 theme = ["github.com/google/docsy", "github.com/google/docsy/dependencies"]
 
@@ -11,11 +13,11 @@ canonifyURLs = false
 contentDir = "content/en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-
 enableMissingTranslationPlaceholders = true
 enableRobotsTXT = true
 enableGitInfo = true
 
+# Taxonomies
 [taxonomies]
 tag = "tags"
 category = "categories"
@@ -25,26 +27,23 @@ taxonomyCloud = ["tags", "categories"]
 taxonomyCloudTitle = ["Tag Cloud", "Categories"]
 taxonomyPageHeader = ["tags", "categories"]
 
-# Highlighting
+# Syntax highlighting
 pygmentsCodeFences = true
 pygmentsUseClasses = false
 pygmentsUseClassic = false
 pygmentsStyle = "tango"
 
+# URL structure
 [permalinks]
 blog = "/:section/:year/:month/:day/:slug/"
 
-[blackfriday]
-plainIDAnchors = true
-hrefTargetBlank = true
-angledQuotes = false
-latexDashes = true
-
+# Image processing
 [imaging]
 resampleFilter = "CatmullRom"
 quality = 75
 anchor = "smart"
 
+# Language configuration
 [languages]
 [languages.en]
 title = "Manuals"
@@ -54,76 +53,73 @@ weight = 1
 [languages.en.params]
 description = "Manuals"
 
+# Markup
 [markup]
-  [markup.goldmark.renderer]
-    unsafe = true
-  [markup.highlight]
-    style = "tango"
-    linenos = true
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
+[markup.highlight]
+style = "tango"
+linenos = true
+
+# Output formats
 [outputs]
 section = ["HTML", "print", "RSS"]
 
+# Site parameters
 [params]
 copyright = "Bruker BioSpin"
 privacy_policy = "https://www.bruker.com/"
+
 version_menu = "Releases"
 archived_version = false
 version = "0.1"
-url_latest_version = "https://example.com"
+url_latest_version = "https://spinlaboratory.github.io/manuals/"
 
-github_repo = "https://github.com/google/docsy-example"
-github_project_repo = "https://github.com/google/docsy"
+# Disable in-page GitHub edit/issue links
+github_repo = ""
+github_project_repo = ""
 
 offlineSearch = false
 prism_syntax_highlighting = false
 
-navbar_logo = false
-
-# ✅ UI CONFIG (single clean block)
+# User interface
 [params.ui]
 breadcrumb_disable = false
 footer_about_enable = false
+navbar_logo = false
 navbar_translucent_over_cover_disable = false
 sidebar_menu_compact = true
 sidebar_search_disable = false
 
-
-
-# ✅ LOGO CONFIG (fixed)
-# [params.ui.navbar_logo]
-# src = "images/logo/logo.png"
-# alt = "Manuals"
-# width = 150
-
-# ✅ FEEDBACK (fixed nesting)
 [params.ui.feedback]
 enable = false
-yes = "Glad to hear it! Please <a href=\"https://github.com/USERNAME/REPOSITORY/issues/new\">tell us how we can improve</a>."
-no = "Sorry to hear that. Please <a href=\"https://github.com/USERNAME/REPOSITORY/issues/new\">tell us how we can improve</a>."
 
-# ✅ READING TIME
 [params.ui.readingtime]
 enable = false
 
-[params.links]
-
-[module]
-  proxy = "direct"
-
-  [module.hugoVersion]
-    extended = true
-    min = "0.157.0"
-
-  [[module.imports]]
-    path = "github.com/google/docsy"
-
-  [[module.imports]]
-    path = "github.com/google/docsy/dependencies"
-
-[caches]
-  [caches.images]
-    dir = ":cacheDir/images"
-
+# KaTeX math rendering
 [params.katex]
 enable = true
+
+# Hugo module configuration
+[module]
+proxy = "direct"
+
+[module.hugoVersion]
+extended = true
+min = "0.157.0"
+
+[[module.imports]]
+path = "github.com/google/docsy"
+disable = false
+
+[[module.imports]]
+path = "github.com/google/docsy/dependencies"
+disable = false
+
+# Cache
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
