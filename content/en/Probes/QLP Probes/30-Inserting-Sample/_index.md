@@ -20,7 +20,7 @@ The table below summarizes the dimensions for the QLP-1.6 and QLP-2.5 probe.
 Please follow the instructions for using the sample stick to mount the EPR sample to the [Sample Stick](/probes/sample-holder/). In general, the distance between the **center** of the sample and the bottom of the sample holder should be 1 inch (25.4 mm) (see figure below).
 
 <center>
-{{< figure src="/manuals/images/probes/QLP/06-Sample_Holder_Assembly.png" caption="Recommended distance between the center of the sample and the bottom of the sample holder" width="300px">}}
+{{< figure src="/manuals/images/probes/QLP/06-Sample_Holder_Assembly.png" caption="Recommended Distance Between the Sample Center and the bottom of the sample holder" width="300px">}}
 </center>
 
 ### Inserting the Sample Stick
