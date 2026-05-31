@@ -1,15 +1,15 @@
----
+﻿---
 title:          "Overview"
 linkTitle:      "Overview"
 type:           docs
 weight:         10
-draft:          True
+draft:          False
 description:    "Compact Q-Band EPR Spectrometer"
 ---
 The Bridge12 Q-Band spectrometer is a compact EPR spectrometer for pulsed EPR spectroscopy.
 
 <center>
-{{< figure_manuals src="/images/systems/q-band-spectrometer/Q-Band System.png" alt="Bridge12 Compact Q-Band EPR Spectrometer">}}
+{{< figure_manuals src="/manuals/images/systems/q-band-spectrometer/Q-Band System.png" alt="Bridge12 Compact Q-Band EPR Spectrometer">}}
 </center>
 
  The main features of the system are:

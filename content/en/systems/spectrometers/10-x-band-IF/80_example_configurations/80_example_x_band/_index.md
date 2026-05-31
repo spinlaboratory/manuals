@@ -1,15 +1,15 @@
----
+﻿---
 title:          "Example: Pulsed X-Band Operation"
 linkTitle:      "Pulsed X-Band Operation"
 type:           docs
 weight:         80
-draft:          True
+draft:          False
 description:    "Example configuration for pulsed X-Band EPR spectroscopy."
 ---
 A typical configuration of the X-Band IF system for pulsed X-Band spectroscopy is shown in the figure below. Connections that are not required are greyed out.
 
 <center>
-{{< figure_manuals src="/images/systems/xif/X_Band_Config_BackPanelLabels.png">}}
+{{< figure_manuals src="/manuals/images/systems/xif/X_Band_Config_BackPanelLabels.png">}}
 </center>
 
 | Connector | Description |

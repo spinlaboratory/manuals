@@ -1,9 +1,9 @@
----
+﻿---
 title:          "Magnet"
 linkTitle:      "Magnet"
 type:           docs
 weight:         30
-draft:          True
+draft:          False
 description:    "Troubleshooting magnet issues"
 ---
 ## Magnet Control ##
@@ -12,7 +12,7 @@ description:    "Troubleshooting magnet issues"
 ___
 
 ### Recovering after Magnet Quench
-A magnet quench can occur for several reasons, such as sudden loss of electricity, or the cooling water supply shuts down. If the helium compressor shuts off while the magnet coils are charged, or are in persisten mode, the user has about 8 minutes left until the magnet coils have reached about 8 K and the magnet will quench. However, in contrast to a wet magnet, this is rather uneventful. The temperatures of all sensors will suddenly increase. Once electricity (or cooling water) is back, the helium compressor will restart automatically and the magnet will be cooled. If the compressor doesn't restart automatically, it has to be done manually.
+A magnet quench can occur for several reasons, such as sudden loss of electricity, or the cooling water supply shuts down. If the helium compressor shuts off while the magnet coils are charged, or are in persisten mode, the user has about 8 minutes left until the magnet coils have reached about 8Â K and the magnet will quench. However, in contrast to a wet magnet, this is rather uneventful. The temperatures of all sensors will suddenly increase. Once electricity (or cooling water) is back, the helium compressor will restart automatically and the magnet will be cooled. If the compressor doesn't restart automatically, it has to be done manually.
 
 Once the magnet has reached its base temperature it is again safe to operate the system. The temperatures can be observed either directly on the temperature monitor or through the systems logger. Typical temperatures are:
 

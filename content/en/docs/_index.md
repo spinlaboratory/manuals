@@ -2,7 +2,7 @@
 title:        "Fine Print"
 linkTitle:    "Fine Print"
 type:         docs
-draft:        true
+draft:        True
 weight:       99
 menu:
   main:
@@ -19,7 +19,7 @@ Welcome to the online documentation of the Bridge12 QLP probe for pulsed dipolar
 No part of this manual may be reproduced in any form or by any means (including electronic storage and retrieval or translation into a foreign language) without prior agreement and written consent from Bridge12 Technologies, Inc. as governed by United States and international copyright laws.
 
 ## Warranty
-The material contained in this document is provided “as is,” and is subject to being changed, without notice, in future editions.
+The material contained in this document is provided "as is," and is subject to being changed, without notice, in future editions.
 
 Further, to the maximum extent permitted by applicable law, Bridge12 Technologies, Inc. disclaims all warranties, either express or implied, with regard to this manual and any information contained herein, including but not limited to the implied warranties of merchantability and fitness for a particular purpose.
 

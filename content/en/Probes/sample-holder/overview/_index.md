@@ -1,4 +1,4 @@
----
+﻿---
 title:          "Overview"
 linkTitle:      "Overview"
 weight:         10
@@ -7,7 +7,7 @@ date:           2023-01-24
 description:    "Brief overview of the Bridge12 sample stick"
 ---
 <center>
-{{< figure src="/images/probes/sample-holder/01-Sample Stick.png" alt="Sample Stick Assembly" caption="Sample Stick Assembly">}}
+{{< figure src="/manuals/images/probes/sample-holder/01-Sample Stick.png" alt="Sample Stick Assembly" caption="Sample Stick Assembly">}}
 </center>
 
 The Sample Stick Assembly consists of two parts (see figure above):

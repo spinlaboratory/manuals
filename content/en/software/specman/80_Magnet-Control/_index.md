@@ -1,9 +1,9 @@
----
+﻿---
 title:          "Magnet Control"
 linkTitle:      "Magnet Control"
 type:           docs
 weight:         80
-draft:          True
+draft:          False
 description:    "How to control different magnet types through SpecMan4EPR"
 ---
 Two types of magnets are commonly used in EPR spectroscopy:

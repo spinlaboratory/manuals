@@ -3,7 +3,7 @@ title:        "BDPA in Polystyrene"
 linkTitle:    "BDPA/PS"
 type:         docs
 weight:       10
-draft:        True
+draft:          False
 description:    "Preparation of a BDPA in PS sample for EPR Spectroscopy"
 ---
 {{% pageinfo color="warning" %}}
@@ -49,7 +49,7 @@ The general procedure to prepare the BDPA/PS sample is as follows:
 4.	Using a spatula, scrape plastic film off the glass plate
 5.	Dry sample material in vacuum
 
-### Example – Preparation of a 0.1 % BDPA/PS Sample
+### Example — Preparation of a 0.1 % BDPA/PS Sample
 For EPR spectroscopy a useful concentration ranges between 0.025 to 0.1 % (w/w) BDPA/PS.
 
 For this preparation, all chemicals are lab grade chemicals and used without further purification.
@@ -61,7 +61,7 @@ To prepare a 0.1 % of BDPA in PS follow these steps:
 3. Add 100 &micro;l of the BDPA stock solution to the polystyrene solution for a finale concentration of 0.1 % (w/w) BDPA/PS. To prepare a sample with a lower concentration, adjust the amount of BDPA stock solution that gets added to the polystyrene solution.
 4. Pour the entire solution onto a clean glass plate. Make sure the glass plate is leveled and large enough. If necessary, pour the solution in several small badges.
    * Alternatively, use non-stick aluminum foil such as Reynolds Wrap (non-stick).
-5. Let the toluene evaporate at room temperature in a fume hood. This can take several days. To speed up the process, once the majority of the toluene is evaporated, put the plate into an oven or incubator. Keep the temperature low (35-40ºC). Make sure the area is well vented, toluene is highly flammable.
+5. Let the toluene evaporate at room temperature in a fume hood. This can take several days. To speed up the process, once the majority of the toluene is evaporated, put the plate into an oven or incubator. Keep the temperature low (35–40 ºC). Make sure the area is well vented, toluene is highly flammable.
 6. Once the sample is dry, not gooey or sticky anymore, scrape the sample material off the glass plate using a spatula and transfer the sample material into a small (round-bottom) flask that can be evacuated.
    * Optionally, weigh the empty flask, note down the weight and repeat it once the sample material is transferred into the flask to get the initial weight of the sample material.
 7. Dry the sample in vacuum.
@@ -80,7 +80,7 @@ To avoid the formation of small pockets, make sure to pour a thin layer of the t
 Once the sample material is transferred to the EPR tube, the sample can be used as is. However, if all oxygen is removed from the sample the longitudinal relaxation time T<sub>1e</sub> can be dramatically improved. Typically, an evacuated sample will have a T<sub>1e</sub> about factor 200 longer compared to a sample exposed to air. To remove the oxygen, evacuate the sample capillary and flush with argon. Repeat this cycle several times. After the last cycle the sample capillary must be flamed sealed. You can do this in two ways:
 
 * Do not flush the sample with argon after evacuating. That way, the walls of the sample capillary will collapse, once heated by the torch.
-* Flush the sample with argon. Don’t overpressure the sample tube with argon.
+* Flush the sample with argon. Don't overpressure the sample tube with argon.
 
 Both cases need a bit of practice.
 
@@ -93,7 +93,6 @@ Both cases need a bit of practice.
 | 1 | 0.025 | 2.50E-07 | 5.04E-10 | 3.04E+14 |
 | 1 | 0.001 | 1.00E-08 | 2.02E-11 | 1.22E+13 |
 
- 
 ## References
 1. C.F. Koelsch, Syntheses with Triarylvinylmagnesium Bromides. α,γ-Bisdiphenylene-β-phenylallyl, a Stable Free Radical, J. Am. Chem. Soc. 79 (1957) 4439–4441. https://pubs.acs.org/doi/10.1021/ja01573a053
 2. V. Weis, M. Bennati, M. Rosay, J.A. Bryant, R.G. Griffin, High-field DNP and ENDOR with a novel multiple-frequency resonance structure, J Magn Reson. 140 (1999) 293–9. https://doi.org/10.1006/jmre.1999.1841.

@@ -1,4 +1,4 @@
----
+﻿---
 title:          "Inserting and Changing a Sample"
 linkTitle:      "Inserting and Changing a Sample"
 weight:         30
@@ -22,7 +22,7 @@ Use adequate safety precautions when handling your sample, especially when handl
 To get started, the sample tube needs to be mounted in the **Sample Holder**. 
 
 <center>
-{{< figure src="/images/probes/sample-holder/06-Sample Holder Assembly.png" alt="Sample Stick Assembly" caption="Sample Stick Assembly">}}
+{{< figure src="/manuals/images/probes/sample-holder/06-Sample Holder Assembly.png" alt="Sample Stick Assembly" caption="Sample Stick Assembly">}}
 </center>
 
 To mount the sample tube into the **Sample Holder**, follow these steps:

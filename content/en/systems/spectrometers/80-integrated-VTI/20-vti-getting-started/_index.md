@@ -1,14 +1,14 @@
----
+﻿---
 title:          "Getting Started with the iVTI"
 linkTitle:      "iVTI Getting Started"
 type:           docs
 weight:         20
-draft:          True
+draft:          False
 description:    "Getting Started with the iVTI"
 ---
 {{% pageinfo color="info" %}}
 ### Important ###
-Before operating the iVTI please familiarize yourself with the principle of operations described in the section [iVTI Overview](/systems/spectrometers/70_magnets/10-superconducting-magnets/30-vti-overview/). 
+Before operating the iVTI please familiarize yourself with the principle of operations described in the section [iVTI Overview](/systems/spectrometers/80-integrated-vti/10-vti-overview/). 
 
 The following section provides information about day-to-day operation of the cryostat. If you need assistance troubleshooting iVTI operations, please first consult the manual or contact [Bridge12](mailto:info@bridge12.com) or [CRYOGENIC](mailto:sales@cryogenic.co.uk).
 {{% /pageinfo %}}

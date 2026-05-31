@@ -1,4 +1,4 @@
----
+﻿---
 title:          "QLP EPR Probe"
 linkTitle:      "QLP EPR Probe"
 weight:         10
@@ -15,7 +15,7 @@ The QLP EPR probe head is a Q-Band EPR probe head, optimized for pulsed EPR expe
 </center>
 
 ## Overview ##
-The QLP EPR probe head comes in two different flavors. The QLP-1.6 optimized for absolute sensivity while the QLP-2.5 is ideal for experiemnts that require optimum concentration sensitivyte. The probe heads are operating at Q-Band (34 - 36 GHz) frequencies. The probe heads are particularly useful for pulsed dipolar spectroscopy (PDS) such as [Double Electron-Electron Resonance (PELDOR/DEER)](/probes/QLP/80_references/#peldor) spectrocsopy, [Double Quantum Coherence (DQC)]() spectroscopy, or [Relaxation Induced Dipolar Modulation Enhancement (RIDME)](/probes/QLP/80_references/#ridme) experiments. However, any pulsed EPR experiment that requires strong microwave pulses and large excitation bandwidths will benefit from the use of the QLP probe head.
+The QLP EPR probe head comes in two different flavors. The QLP-1.6 optimized for absolute sensivity while the QLP-2.5 is ideal for experiemnts that require optimum concentration sensitivyte. The probe heads are operating at Q-Band (34 - 36 GHz) frequencies. The probe heads are particularly useful for pulsed dipolar spectroscopy (PDS) such as [Double Electron-Electron Resonance (PELDOR/DEER)](/probes/qlp-probes/50_references/#peldor) spectrocsopy, [Double Quantum Coherence (DQC)]() spectroscopy, or [Relaxation Induced Dipolar Modulation Enhancement (RIDME)](/probes/qlp-probes/50_references/#ridme) experiments. However, any pulsed EPR experiment that requires strong microwave pulses and large excitation bandwidths will benefit from the use of the QLP probe head.
 
 Pulsed Electron Paramagnetic Resonance (EPR) spectroscopy using high-power microwave pulses or arbitrary waveform generated (AWG) broadband pulses require a large resonator bandwidth (low resonator Q) to ensure efficient excitation and to avoid distortion of the pulse shape. However, a large resonator bandwidth often comes at the cost of a reduced microwave conversion factor. Loop-Gap Resonators (LGR) combine all these desired features together with an excellent field homogeneity across the sample. This is especially important when using AWG generated broadband pulses.
 

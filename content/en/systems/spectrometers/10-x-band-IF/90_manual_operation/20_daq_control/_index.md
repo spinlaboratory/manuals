@@ -1,16 +1,16 @@
----
+﻿---
 title:        "DAQ Control"
 linkTitle:    "DAQ"
 type:         docs
 weight:       20
-draft:        True
+draft:          False
 description:  "How to control the analog and digital lines of the X-Band IF system manually."
 ---
 Please make sure the control software for the DAQ interface is installed. If you haven't done so, you can download it [here](https://cdn.docsie.io/file/workspace_u4AEu22YJT50zKF8J/doc_VDWGWsJAhd453cYSI/boo_9BFzMKFachlhscG9Z/file_0VQecfNudEDcCn8dq/labjack-2019-05-20.exe).
 
 ## Connecting to the DAQ Interface
 <center>
-{{< figure_manuals src="/images/systems/xif/Connect_800px.png">}}
+{{< figure_manuals src="/manuals/images/systems/xif/Connect_800px.png">}}
 </center>
 
 To connect to the DAQ interface follow these steps:
@@ -22,7 +22,7 @@ To connect to the DAQ interface follow these steps:
 
 ## Digital Input/Output Control
 <center>
-{{< figure_manuals src="/images/systems/xif/DIO Lines_600px.PNG">}}
+{{< figure_manuals src="/manuals/images/systems/xif/DIO Lines_600px.PNG">}}
 </center>
 
 To control the digital input/output lines click on the menu item *Dashboard* (see figure above). Each of the lines can be configured as an input or output by selecting the control from the drop-down menu. If the line is configured as an input the indicator to the left will show whether the line is logic high or low. If the line is configured as an output, the status can be changed by selecting the desired status from the drop-down menu.
@@ -42,7 +42,7 @@ Below is a list of the different digital channels used by the X-Band IF system.
 
 ## Analog Output Control
 <center>
-{{< figure_manuals src="/images/systems/xif/Analog Output_600px.PNG">}}
+{{< figure_manuals src="/manuals/images/systems/xif/Analog Output_600px.PNG">}}
 </center>
 
 The value of the various analog outputs can be controlled from the *Register Matrix* panel. The values for TDAC0 - TDAC3 can be set between -10 and +10 V, with a resolution of 16 bit.
@@ -90,11 +90,11 @@ All lines are configured as outputs in SpecMan.
 | 1                     | MIO0                     | IO1                   | DAQ bit MIO 0, can be configured as input and output (TTL level) | Enable/disable tune mode |
 | 2                     | MIO2                     | IO3                   | DAQ bit MIO 2, can be configured as input and output (TTL level) | |
 | 3                     | DAC1                     | DAC1                  | DAQ bit DAC 1. This is an analog output. The value can be changed between 0 and 5 V. The output is controlled from the *Dashboard* menu | |
-| 4                     | AIN1                     |                       | DAQ bit AIN1, analog input range ±10V, ±1V, ±0.1V and ±0.01V | |
+| 4                     | AIN1                     |                       | DAQ bit AIN1, analog input range Â±10V, Â±1V, Â±0.1V and Â±0.01V | |
 | 5                     | GND                      | n/a                   | System GND | |
 | 6                     | MIO1                     | IO2                   | DAQ bit MIO 1, can be configured as input and output (TTL level) | Enable/disable external high-power amplifier |
 | 7                     | TDAC3                    |                       | TDAC 3, values (set in software) -10  to 10 V, output is 0 to 10 V, 14 bit resolution | |
-| 8                     | AIN0                     |                       | DAQ bit AIN0, analog input range ±10V, ±1V, ±0.1V and ±0.01V | |
+| 8                     | AIN0                     |                       | DAQ bit AIN0, analog input range Â±10V, Â±1V, Â±0.1V and Â±0.01V | |
 | 9                     | Vs                       |                       | 5 V supply voltage | |
 
 ### VCA Connector (SMA, back panel) 

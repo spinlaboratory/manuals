@@ -1,20 +1,20 @@
----
+﻿---
 title:          "Operating the iVTI"
 linkTitle:      "iVTI Operation"
 type:           docs
 weight:         30
-draft:          True
+draft:          False
 description:    "How to Operate the iVTI"
 ---
 {{% pageinfo color="info" %}}
 ### Important ###
-Before operating the iVTI please familiarize yourself with the principle of operations described in the section [iVTI Overview](/systems/spectrometers/70_magnets/10-superconducting-magnets/30-vti-overview/). 
+Before operating the iVTI please familiarize yourself with the principle of operations described in the section [iVTI Overview](/systems/spectrometers/80-integrated-vti/10-vti-overview/). 
 
 The following section provides information about day-to-day operation of the cryostat. If you need assistance troubleshooting iVTI operations, please first consult the manual or contact [Bridge12](mailto:info@bridge12.com) or [CRYOGENIC](mailto:sales@cryogenic.co.uk).
 {{% /pageinfo %}}
 
 <center>
-{{< figure_manuals src="/images/systems/q-band-magnet/iVTI Schematics_600px.png" caption="Schematic of the iVTI">}}
+{{< figure_manuals src="/manuals/images/systems/q-band-magnet/iVTI Schematics_600px.png" caption="Schematic of the iVTI">}}
 </center>
 
 The iVTI operates by circulating helium gas in a closed-loop circuit. A schematic of the circuit is shown above. The following instructions assume the magnet is at its base temperature and the iVTI has passed [operational checks](/systems/spectrometers/80-integrated-vti/20-vti-getting-started/#prior-checks-before-operating-the-ivti).
@@ -45,7 +45,7 @@ Under normal conditions, a pressure of about 10 mbar can cover a wide range of t
 To operate at temperatures below 10 K, the pressure may have to be adjusted using the needle valve. In this case, the optimum value will correspond to the vapour pressure curve as shown in the figure below.
 
 <center>
-{{< figure_manuals src="/images/systems/q-band-magnet/He vapor pressure_600px.png" caption="Helium Vapor Pressure">}}
+{{< figure_manuals src="/manuals/images/systems/q-band-magnet/He vapor pressure_600px.png" caption="Helium Vapor Pressure">}}
 </center>
 
 In general, if the helium flow rate is too low there may not be enough cooling power available from the circulating helium and the system may not reach the base temperature of the iVTI. A slightly too high a flow rate and the system will not reach base temperature because it is not following the vapour pressure curve. 

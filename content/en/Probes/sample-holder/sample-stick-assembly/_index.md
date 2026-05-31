@@ -1,4 +1,4 @@
----
+﻿---
 title:          "Sample Stick"
 linkTitle:      "Sample Stick"
 weight:         20
@@ -7,7 +7,7 @@ date:           2023-01-24
 description:    "The Bridge12 sample stick assembly"
 ---
 <center>
-{{< figure src="/images/probes/sample-holder/02-Sample Stick.png" alt="Sample Stick Assembly" caption="Sample Stick Assembly">}}
+{{< figure src="/manuals/images/probes/sample-holder/02-Sample Stick.png" alt="Sample Stick Assembly" caption="Sample Stick Assembly">}}
 </center>
 
 The complete sample stick assembly is shown in the figure about. The sample tube is mounted in the **Sample Holder**. The entire assembly is designed to easily insert the sample into the probe at any operating temperatures.
@@ -15,7 +15,7 @@ The complete sample stick assembly is shown in the figure about. The sample tube
 ## Sample Holder
 
 <center>
-{{< figure src="/images/probes/sample-holder/03-Sample Holder Exploded.png" alt="Sample Holder Parts" caption="Sample Holder Parts">}}
+{{< figure src="/manuals/images/probes/sample-holder/03-Sample Holder Exploded.png" alt="Sample Holder Parts" caption="Sample Holder Parts">}}
 </center>
 
 In addition to the sample tube the **Sample Holder** assembly consists of four different parts:
@@ -30,7 +30,7 @@ In addition to the sample tube the **Sample Holder** assembly consists of four d
 To accomodate different samples tube diameters, the **Sample Holder** comes with a set of different **Sample Holder Tips** and **Sample Holder Tops**.
 
 <center>
-{{< figure src="/images/probes/sample-holder/04-Sample Holder Tip and Top.png" alt="Sample Holder Parts" caption="Sample Holder Parts">}}
+{{< figure src="/manuals/images/probes/sample-holder/04-Sample Holder Tip and Top.png" alt="Sample Holder Parts" caption="Sample Holder Parts">}}
 </center>
 
 Two different sizes for the **Sample Holder Top** are included. Use the smaller **Sample Holder Top** (left side, figure above) size for sample tube with an OD of < 4.0 mm. For sample tube sizes of 4.0 mm and larger use the **Sample Holder Top** with the larger bore size (right side, figure above).
@@ -46,7 +46,7 @@ Each sample tube and **Sample Holder Tip** show variations of the ID and OD. We 
 ## Sample Holder Extension
 
 <center>
-{{< figure src="/images/probes/sample-holder/05-Sample Holder Extension.png" alt="Sample Holder Parts" caption="Sample Holder Parts">}}
+{{< figure src="/manuals/images/probes/sample-holder/05-Sample Holder Extension.png" alt="Sample Holder Parts" caption="Sample Holder Parts">}}
 </center>
 
 The **Sample Holder Extension** (shown above) consists of 3 different parts:

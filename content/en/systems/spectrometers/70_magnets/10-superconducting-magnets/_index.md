@@ -1,9 +1,9 @@
----
+﻿---
 title:          "Superconducting Magnets"
 linkTitle:      "Superconducting Magnets"
 type:           docs
 weight:         10
-draft:          True
+draft:          False
 description:    "Superconducting Magnets for EPR Spectroscopy"
 ---
 Many Bridge12 (high-field) EPR spectrometers use superconducting magnets manufactured by [CRYOGENIC LTD](http://www.cryogenic.co.uk/). The magnet system comes with extensive documentation.

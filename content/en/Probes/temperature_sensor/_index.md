@@ -1,11 +1,11 @@
----
+﻿---
 title:          "Built-In Temperature Sensor"
 linkTitle:      "Temperature Sensor"
 weight:         80
 type:           docs
 date:           2023-03-28
 description:    ""
-draft:          True
+draft:          False
 ---
 Most Bridge12 EPR probes have an integrated, calibrated [Cernox](https://www.lakeshore.com/products/categories/overview/temperature-products/cryogenic-temperature-sensors/cernox) temperature sensor. This allows the user to get an accurate reading of the sample temperature even when using a liquid cryogen-free (dry) cryostat with an exchange gas. The temperature sensor is compatible with all temperature controllers commonly used to regulate the cryostat temperature. 
 
@@ -15,7 +15,7 @@ A calibration file for the temperature controller is available for [download fro
 
 ## Electrical Connector ##
 <center>
-{{< figure src="/images/probes/bridge12-qlp/qlp-connector-pinout.png" caption="Bridge12 QLP Pinout" width="400px">}}
+{{< figure src="/manuals/images/probes/QLP/qlp-connector-pinout.png" caption="Bridge12 QLP Pinout" width="400px">}}
 </center>
 
 A 6-pin electrical connector is located on the top of the probe to connect the internal temperature sensor of the probe to a temperature controller. Two more pins are available to the user for auxillary connections. Upon request a connector with more pins (up to 9) can be installed. For reference, these are the connectors for the default configuration:
@@ -33,7 +33,7 @@ Typically, the QLP probe will be shipped with a cable to connect the probe to a 
 **Model:** [Mecury ITC](https://nanoscience.oxinst.com/accessories/mercuryitc)
 
 <center>
-{{< figure src="/images/probes/bridge12-qlp/itc-pinout.png" caption="Oxford Instruments ITC Pinout" width="200px">}}
+{{< figure src="/manuals/images/probes/QLP/itc-pinout.png" caption="Oxford Instruments ITC Pinout" width="200px">}}
 </center>
 
 #### Temperature Controller: Stanford Research Systems, CTC100
@@ -42,7 +42,7 @@ Typically, the QLP probe will be shipped with a cable to connect the probe to a 
 **Manual:** [PDF](https://www.thinksrs.com/downloads/pdfs/manuals/CTC100m.pdf)
 
 <center>
-{{< figure src="/images/probes/bridge12-qlp/srs-pinout.png" caption="SRS CTC100 Connector Pinout" width="200px">}}
+{{< figure src="/manuals/images/probes/QLP/srs-pinout.png" caption="SRS CTC100 Connector Pinout" width="200px">}}
 </center>
 
 ##### Using a Custom Calibration Table with the CTC100 #####

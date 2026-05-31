@@ -1,9 +1,9 @@
----
+﻿---
 title:        "Digital Demodulation"
 linkTitle:    "Digital Demodulation"
 type:         docs
 weight:       40
-draft:        True
+draft:          False
 description:  "How to use digital demodulation with the X-Band IF system."
 ---
 The Bridge12 X-Band IF system supports digital demodulation. Digital demodulation allows for easy removal of baseline artifacts and will result in a much cleaner signal detection. Instead of down-converting the EPR signal to DC level, the LO frequency is slightly offset and the signal is detected at a frequency of e.g. 200 MHz. The exact frequency depends on the sampling rate and input bandwidth of the digitizer (or oscilloscope).
@@ -16,7 +16,7 @@ Digital demodulation is highly recommended for the X-Band IF system. Even an off
 The example below shows a digitally demodulated signal of a 2-pulse Hahn echo of a sample of BDPA in polystyrene, recorded at Q-band frequencies.
 
 <center>
-{{< figure_manuals src="/images/systems/xif/q-band-bdpa-ps-2pecho_600px.png">}}
+{{< figure_manuals src="/manuals/images/systems/xif/q-band-bdpa-ps-2pecho_600px.png">}}
 </center>
 
 We recommend using an intermediate frequency of about half the bandwidth of the digitizer. For example, if the digitizer has an input bandwidth of 400 MHz, we recommend to choose an intermediate frequency of 200 MHz.
@@ -38,7 +38,7 @@ To use digital demodulation with DC pulses follow these steps:
 
 1. Connect the RCVR IF to the **LO2** output.
 2. Set the **LO1** frequency on-resonant with the resonator frequency, e.g. 9.6 GHz.
-3. Set the **LO2** frequency to 9.4 GHz. That way the echo signal has to be demodulated using a frequency of 200 MHz (9.6 GHz - 9.4 GHz = 0.2 GHz).
+3. Set the **LO2** frequency to 9.4 GHz. That way the echo signal has to be demodulated using a frequency of 200Â MHz (9.6 GHz - 9.4 GHz = 0.2 GHz).
 
 ## Demodulating the Signal (Demodulating the Signal)
 Once the signal is digitized it has to be digitally demodulated.

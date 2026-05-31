@@ -1,9 +1,9 @@
----
+﻿---
 title:          "Installation"
 linkTitle:      "Installation"
 type:           docs
 weight:         15
-draft:          True
+draft:          False
 description:    "How to install SpecMan4EPR"
 ---
 ## Software Installation ##

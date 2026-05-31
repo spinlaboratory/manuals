@@ -1,9 +1,9 @@
----
+﻿---
 title:          "Manual Operation of the X-Band IF"
 linkTitle:      "Manual Operation"
 type:           docs
 weight:         90
-draft:          True
+draft:          False
 description:    "Required software to install to manually operate the X-Band IF system."
 ---
 To manually operate the X-Band IF system please install the following software:

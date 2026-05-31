@@ -1,9 +1,9 @@
----
+﻿---
 title:          "Getting Started"
 linkTitle:      "Getting Started"
 type:           docs
 weight:         20
-draft:          True
+draft:          False
 description:    "Getting started with the Q-Band spectrometer SpecMan4EPR"
 ---
 In this section we give a general overview how to operate the Bridge12 Q-Band pulsed EPR spectrometer, which will include the following steps:
@@ -28,7 +28,7 @@ This documentation was prepared using SpecMan4EPR version 3.6.4. If you use a di
 When you first start SpecMan4EPR, the software will make sure it can connect to all devices. Once the initialization routine finishes you will see a window very similar to the one shown in the figure below.
 
 <center>
-{{< figure_manuals src="/images/software/SpecMan/specman-1a.png" alt="SpecMan4EPR">}}
+{{< figure_manuals src="/manuals/images/software/SpecMan/specman-1a.png" alt="SpecMan4EPR">}}
 </center>
 
 We recommend to open the following windows to operate the spectrometer:
@@ -41,10 +41,10 @@ We recommend to open the following windows to operate the spectrometer:
 Once you opened all these additional panels, the SpecMan4EPR window should look similar to the one shown below.
 
 <center>
-{{< figure_manuals src="/images/software/SpecMan/specman-1b.png" alt="SpecMan4EPR with additional panels">}}
+{{< figure_manuals src="/manuals/images/software/SpecMan/specman-1b.png" alt="SpecMan4EPR with additional panels">}}
 </center>
 
 
 ### What's next? ###
-* [Inserting a Sample](/systems/spectrometers/81-q-band-spectrometer/20_getting_started/10-inserting-a-sample-adjust-coupling/).
+* [Inserting a Sample](/systems/10-q-band-spectrometer/20_getting_started/10-inserting-a-sample-adjust-coupling/).
 

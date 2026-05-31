@@ -1,20 +1,20 @@
----
+﻿---
 title:          "40 W Q-Band Amplifier"
 linkTitle:      "40 W Q-Band Amplifier"
 type:           docs
 weight:         20
-draft:          True
+draft:          False
 description:    40 W Q-Band Solid-State Microwave Amplifier
 ---
 The Bridge12 AMP-Q40 is a 40 W solid-state microwave amplifier for Q-Band (35 GHz) pulsed EPR spectroscopy. The amplifier can fully replace a TWT amplifier and in combination with the [Bridge12 QLP-1.6 probe ](https://www.bridge12.com/products/q-band-pulsed-epr-resonator/) is a great combination for pulsed dipolar EPR spectroscopy.
 
 {{% pageinfo %}}
 ### Note ###
-The expected pulse length for a 180º-pulse, using a maximally overcoupled [Bridge12 QLP-1.6 resonator](https://www.bridge12.com/products/q-band-pulsed-epr-resonator/) is 16 ns.
+The expected pulse length for a 180Âº-pulse, using a maximally overcoupled [Bridge12 QLP-1.6 resonator](https://www.bridge12.com/products/q-band-pulsed-epr-resonator/) is 16 ns.
 {{% /pageinfo %}}
 
 <center>
-{{< figure_manuals src="/images/systems/amplifiers/Q40/Q-Band 40 W Amplifier Schematic_600px.png">}}
+{{< figure_manuals src="/manuals/images/systems/amplifiers/Q40/Q-Band 40 W Amplifier Schematic_600px.png">}}
 </center>
 
 A schematic of the amplifier is shown in the figure above. The amplifier has an integrated gate, isolator, and coupler. The input connector for the amplifier is a 2.92 mm connector, while the output is a WR-28 waveguide output.
@@ -54,13 +54,13 @@ Do not Hot Switch the amplifier. Hot Switching occurs, when the blanking gate is
 Please refer to the timing diagram and the values below for recommended pulse timing.
 
 <center>
-{{< figure_manuals src="/images/systems/amplifiers/Q40/Q-Band 40 W Amplifier Timing Diagram_600px.png">}}
+{{< figure_manuals src="/manuals/images/systems/amplifiers/Q40/Q-Band 40 W Amplifier Timing Diagram_600px.png">}}
 </center>
 
 * Gate lead, t<sub>g,lead</sub> > 100 ns (200 ns recommended)
 * Gate tail, t<sub>g,tail</sub> > 20 ns (50 ns recommended)
 * Maximum duty cycle: 20%
-* Maximum pulse length: 10 µs
+* Maximum pulse length: 10 Âµs
 * **ATTENTION: DO NOT HOT SWITCH AMPLIFIER**
 
 ## 15 Pin D-Sub Back Panel Connector

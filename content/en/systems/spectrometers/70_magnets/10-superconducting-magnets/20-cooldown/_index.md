@@ -1,9 +1,9 @@
----
+﻿---
 title:          "Cooling Down the Magnet"
 linkTitle:      "Magnet Cooldown"
 type:           docs
 weight:         20
-draft:          True
+draft:          False
 description:    "How to cool down the magnet"
 ---
 {{% pageinfo color="warning" %}}
@@ -68,7 +68,7 @@ Cooling the magnet is simply a matter of starting the helium compressor:
 Typically the 1<sup>st</sup> stage of the cryocooler will cool fastest followed by the 2<sup>nd</sup> stage and then the magnet. For this magnet, the cooldown time is typically about 22 hrs. It should be noted that initially, the operating pressure at the compressor will be high and then reduce (typically by 20 %) as the magnet temperature drops and the cryocooler is required to do less work to remove heat from the system. Once the base temperature of the magnet is achieved the magnet may be energized.
 
 <center>
-{{< figure_manuals src="/images/systems/q-band-magnet/Q-Band_Magnet_Cooldown_600px.png" caption="Temperatures of a Typical Magnet Cooldown">}}
+{{< figure_manuals src="/manuals/images/systems/q-band-magnet/Q-Band_Magnet_Cooldown_600px.png" caption="Temperatures of a Typical Magnet Cooldown">}}
 </center>
 
 Temperatures for a typical cooldown of the magnet are shown in the figure above. The following table has shows some typical temperatures once the magnet is at its base temperature.
@@ -90,4 +90,4 @@ Once the magnet has avhieved base temperature:
 2. Start the dry pump.
 3. Adjust the needle valve to a pressure of approximately 6 mbar at the iVTI pump port. Please note the needle valve may require several further adjustments as the temperature profile within the flow circuit varies whilst steady-state flow conditions are established in the circuit.
 
-For further information/instructions on how to operate the iVTI please see the section about [operating the iVTI](/systems/spectrometers/70_magnets/10-superconducting-magnets/30-integrated-vti/30-vti-operation/).
+For further information/instructions on how to operate the iVTI please see the section about [operating the iVTI](/systems/spectrometers/80-integrated-vti/30-vti-operation/).

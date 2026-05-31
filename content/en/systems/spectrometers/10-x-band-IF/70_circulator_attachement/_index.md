@@ -1,22 +1,22 @@
----
+﻿---
 title:          "Circulator Attachment"
 linkTitle:      "Circulator"
 type:           docs
 weight:         70
-draft:          True
+draft:          False
 description:    "Connecting the circulator attachment to the the X-Band IF system."
 ---
 The Bridge12 X-Band IF does not have an integrated circulator/pre-amplifier, instead an attachment is connected to the side panel of the X-IF system. This attachment will look slightly different for different frequency bands (X-Band, Q-Band, etc.). For some other frequency bands such as S-Band, or W-Band, the circulator is integrated into the frequency extension.
 
 ## X-Band Circulator
 <center>
-{{< figure_manuals src="/images/systems/xif/X-Band IF with Circulator_800px.png">}}
+{{< figure_manuals src="/manuals/images/systems/xif/X-Band IF with Circulator_800px.png">}}
 </center>
 
 The X-Band circulator attachment is directly connected to the side panel of the X-IF system (see figure above) and is held by two SMA connections. A schematic of the circulator attachment is shown in the figure below.
 
 <center>
-{{< figure_manuals src="/images/systems/xif/X-Band Circulator Extension.png">}}
+{{< figure_manuals src="/manuals/images/systems/xif/X-Band Circulator Extension.png">}}
 </center>
 
 The circulator attachment has three connectors:

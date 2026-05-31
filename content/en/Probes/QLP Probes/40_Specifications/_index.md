@@ -1,11 +1,11 @@
----
+﻿---
 title:          "Probe Specifications"
 linkTitle:      "Specifications"
-weight:         70
+weight:         40
 type:           docs
 date:           2026-05-15
 description:    "QLP Probe Description"
-draft:        True
+draft:          False
 ---
 ## Probe Specifications ##
 

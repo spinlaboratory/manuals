@@ -1,9 +1,9 @@
----
+﻿---
 title:        "Superconducting Magnets"
 linkTitle:    "Superconducting Magnets"
 type:         docs
 weight:       10
-draft:        True
+draft:          False
 ---
 {{% pageinfo color="primary" %}}
 ### Important ###

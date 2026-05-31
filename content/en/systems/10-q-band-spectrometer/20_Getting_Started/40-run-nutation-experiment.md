@@ -1,9 +1,9 @@
----
+﻿---
 title:          "Run a B1 Nutation Experiment"
 linkTitle:      "Run a Nutation Experiment"
 type:           docs
 weight:         40
-draft:          True
+draft:          False
 description:    "How to run a B1 nutation experiment"
 ---
 In this section we will provide general instructions on how to run a nutation experiment to determine the optimum length of the inversion pulse.
@@ -22,7 +22,7 @@ To perform the nutation experiment follow these steps:
 The result of the experiment is shown in the figure below.
 
 <center>
-{{< figure_manuals src="/images/software/SpecMan/specman-10.png" alt="SpecMan4EPR Rabi oscillations">}}
+{{< figure_manuals src="/manuals/images/software/SpecMan/specman-10.png" alt="SpecMan4EPR Rabi oscillations">}}
 </center>
 
 Use the cursor and *Hint Mode* to determine the pulse length of the inversion pulse. In this case it is 10 ns for an pulse amplitude of 1. 
@@ -35,4 +35,4 @@ The Bridge12 QLP resonator has a bandwidth of > 400 MHz. Therefore, you don't ha
 
 
 ### What's next? ###
-* [Run the PELDOR/DEER Experiment](/systems/spectrometers/81-q-band-spectrometer/20_getting_started/50-run-deer-experiment/).
+* [Run the PELDOR/DEER Experiment](/systems/10-q-band-spectrometer/20_getting_started/50-run-deer-experiment/).

@@ -1,16 +1,16 @@
----
+﻿---
 title:          "Overview"
 linkTitle:      "Overview"
 type:           docs
 weight:         10
-draft:          True
+draft:          False
 description:    "Brief overview of SpecMan4EPR"
 ---
 
 [SpecMan4EPR](https://specman4epr.com/index.html) is a highly flexible platform to control spectrometers. The software can work with a large variety of commercial equipment such as AWGs, digitizers, lock-in amplifiers, etc., but also home-built components.
 
 <center>
-{{< figure src="/images/software/SpecMan/sm-overview.png" alt="SpecMan4EPR" caption="SpecMan4EPR - Connecting Spectrometers to People">}}
+{{< figure src="/manuals/images/software/SpecMan/sm-overview.png" alt="SpecMan4EPR" caption="SpecMan4EPR - Connecting Spectrometers to People">}}
 </center>
 
 The software features:

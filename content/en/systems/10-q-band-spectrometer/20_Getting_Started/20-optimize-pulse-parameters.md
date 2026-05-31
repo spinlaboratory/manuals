@@ -1,9 +1,9 @@
----
+﻿---
 title:          "Optimizing the Microwave Pulse Parameters"
 linkTitle:      "Optimizing Pulse Parameters"
 type:           docs
 weight:         20
-draft:          True
+draft:          False
 description:    "How to optimize the microwave pulse parameters for PELDOR/DEER experiments"
 ---
 
@@ -17,7 +17,7 @@ In this section we provide the general procedure how to optimize the microwave p
 3. Enter the field value and click the ``Set Field`` button.
 
 <center>
-{{< figure_manuals src="/images/software/SpecMan/specman-5.png" alt="SpecMan4EPR magnetic field control">}}
+{{< figure_manuals src="/manuals/images/software/SpecMan/specman-5.png" alt="SpecMan4EPR magnetic field control">}}
 </center>
 
 4. Wait until the desired field value is reached. When the magnetic field is sweeping, the temperature of the Magnet Switch will typically rise from about 5.9 K to about 8 K. Once the desired field is reached, the temperature returns to its base temperature of about 5.9 K.
@@ -45,14 +45,14 @@ In the next step, we will find the optimum value for the microwave power. SpecMa
 
 5. Move the slider with the mouse to maximize the echo amplitude.
     1. Find the optimum pulse amplitude for a two-pulse echo using 8 and 16 ns for the pi/2 and pi pulse, respectively.  In this example the optimum value is at 0.2 (21st step).
-    2. Change the pulse length the for 90º and 180º pulse to 16 and 32 ns, respectively, and repeat the optimization. In this example the optimum value for the 16/32 echo is at 0.08. This value should be approximately half of the value determined for the 8/16 ns echo.
+    2. Change the pulse length the for 90Âº and 180Âº pulse to 16 and 32 ns, respectively, and repeat the optimization. In this example the optimum value for the 16/32 echo is at 0.08. This value should be approximately half of the value determined for the 8/16 ns echo.
 
     While the tune mode is running, SpecMan4EPR will integrate the area of the echo and record the value in the display. Observe the value (red trace in figure below) and optimize for the maximum echo amplitude.
 
 6. Once you found the optimum values stop the tune mode by clicking the ``tune`` button.
 
 <center>
-{{< figure_manuals src="/images/software/SpecMan/specman-6.png" alt="SpecMan4EPR optimizing pulse parameters">}}
+{{< figure_manuals src="/manuals/images/software/SpecMan/specman-6.png" alt="SpecMan4EPR optimizing pulse parameters">}}
 </center>
 
 ### Record reference T2 decay ###
@@ -66,10 +66,10 @@ In the next step, we will record a two-pulse echo decay as a reference spectrum.
 It will take about 15 s to compile the pulse sequency and upload it to the AWG. Once the sequence is uploaded the experiment will start and the results are shown once the experiment finishes (see figure below). Overall duration for this experiment is about 26 s.
 
 <center>
-{{< figure_manuals src="/images/software/SpecMan/specman-7.png" alt="SpecMan4EPR two-pulse echo decay">}}
+{{< figure_manuals src="/manuals/images/software/SpecMan/specman-7.png" alt="SpecMan4EPR two-pulse echo decay">}}
 </center>
 
 For this particular sample we pick a maximum dipolar evolution time of about 2 &micro;s.
 
 ### What's next? ###
-* [Record a Field Sweep Experiment](/systems/spectrometers/81-q-band-spectrometer/20_getting_started/30-record-field-sweep-experiment/).
+* [Record a Field Sweep Experiment](/systems/10-q-band-spectrometer/20_getting_started/30-record-field-sweep-experiment/).

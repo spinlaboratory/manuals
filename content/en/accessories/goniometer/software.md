@@ -1,11 +1,11 @@
----
+﻿---
 title:          "Remote Control the Goniometer"
 linkTitle:      "Remote Control"
 weight:         20
 type:           docs
 date:           2024-07-11
 description:    "How to remote control the goniometer from a computer"
-draft:          True
+draft:          False
 ---
 ## Getting Started
 ### Installing the pyB12SMC Python Package
@@ -62,11 +62,11 @@ Once the package is installed open a terminal and start Python. To use the gonio
 
 3. Try the following commands:
 
-    Go to the home position (X-axis), corresponding to 0º
+    Go to the home position (X-axis), corresponding to 0Âº
 
     ```smc.home('X')```
 
-    Set the position of the goniometer to 15º
+    Set the position of the goniometer to 15Âº
 
     ```smc.theta('X', 15)```
 
@@ -88,13 +88,13 @@ Once the package is installed open a terminal and start Python. To use the gonio
     
     ```smc.theta('X', 15)```
 
-    Will result in a total rotation of 30º.
+    Will result in a total rotation of 30Âº.
 
     Sending the following command:
 
     ```smc.theta('X', -15)```
 
-    will rotate the goniometer 15º in the opposite direction.
+    will rotate the goniometer 15Âº in the opposite direction.
 
 5. To print an overview of the available methods send the following command:
 

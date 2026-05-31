@@ -1,9 +1,9 @@
----
+﻿---
 title:          "SpecMan4EPR"
 linkTitle:      "SpecMan4EPR"
 type:           docs
 weight:         10
-draft:          True
+draft:          False
 description:    "Troubleshooting SpecMan4EPR issues"
 ---
 

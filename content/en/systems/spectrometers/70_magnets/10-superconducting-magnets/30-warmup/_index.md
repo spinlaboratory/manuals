@@ -1,9 +1,9 @@
----
+﻿---
 title:          "Warming Up the Magnet"
 linkTitle:      "Magnet Warmup"
 type:           docs
 weight:         30
-draft:          True
+draft:          False
 description:    "How to warm up the magnet"
 ---
 {{% pageinfo color="warning" %}}

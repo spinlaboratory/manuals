@@ -1,4 +1,4 @@
----
+﻿---
 title:          "Recommended Sample Amount and Position"
 linkTitle:      "Sample Amount/Position"
 weight:         40
@@ -12,7 +12,7 @@ description:    "Recommended sample amount and position for optimum performance"
 Please check the recommended sample amount/height and position for the resonator you are planning to use. Each resonator will have its own optimum sample height. If you don't find your particular resonator model in the list below, please contact Bridge12 at info@bridge12.com
 {{% /pageinfo %}}
 
-{{< figure src="/images/probes/sample-holder/07-Sample Amount Position.png" alt="Sample Amount and Position">}}
+{{< figure src="/manuals/images/probes/sample-holder/07-Sample Amount Position.png" alt="Sample Amount and Position">}}
 
 When preparing a sample and mounting it in the Sampler Holder to factors are important to consider:
 
