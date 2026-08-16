@@ -4,7 +4,7 @@ linkTitle:      "W-Band Extension"
 type:           docs
 weight:         30
 draft:          False
-description:    "W-Band Extension for the Bridge12 X-IF System"
+description:    "W-Band Extension for the Bruker X-IF System"
 ---
 The W-Band frequency extension converts the X-Band IF system to operate at W-Band microwave frequencies (~75–110 GHz, center frequency ~94 GHz). W-Band EPR spectroscopy provides significantly improved g-factor resolution compared to lower-frequency bands, making it well suited for resolving overlapping radical species and for orientation-selective DEER experiments.
 

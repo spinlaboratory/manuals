@@ -29,7 +29,7 @@ Use the cursor and *Hint Mode* to determine the pulse length of the inversion pu
 
 {{% pageinfo color="primary" %}}
 ### Note ###
-The Bridge12 QLP resonator has a bandwidth of > 400 MHz. Therefore, you don't have to repeat the nutation experiment at the observe field position.
+The Bruker QLP resonator has a bandwidth of > 400 MHz. Therefore, you don't have to repeat the nutation experiment at the observe field position.
 
 {{% /pageinfo %}}
 

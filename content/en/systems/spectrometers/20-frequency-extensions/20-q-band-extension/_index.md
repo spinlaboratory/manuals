@@ -4,7 +4,7 @@ linkTitle:      "Q-Band Extension"
 type:           docs
 weight:         20
 draft:          False
-description:    "Q-Band (34 GHz) Frequency Extension for the Bridge12 X-IF System for EPR Spectroscopy"
+description:    "Q-Band (34 GHz) Frequency Extension for the Bruker X-IF System for EPR Spectroscopy"
 ---
 The Q-Band frequency extension converts the X-Band IF system to operate at Q-Band microwave frequencies (~34–36 GHz). Q-Band EPR spectroscopy offers higher sensitivity compared to X-Band due to the larger Boltzmann population difference at higher frequencies and improved spectral resolution for samples with g-anisotropy or hyperfine structure.
 

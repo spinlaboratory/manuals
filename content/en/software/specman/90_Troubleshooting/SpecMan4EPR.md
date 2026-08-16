@@ -27,7 +27,7 @@ In case have to re-install SpecMan4EPR on a new computer, follow these steps (as
     1. cfg - to store configuration files
     2. pattern - to store pattern files
     3. tpl - to store pulse program templates
-4. Double click the SpecMan4EPR icon to start the application. Since no license is installed, SpecMan4EPR will create a *LIF File*. To obtain a license please send this file to support@bridge12.com and include any additional information about your spectrometer (e.g. serial number)
+4. Double click the SpecMan4EPR icon to start the application. Since no license is installed, SpecMan4EPR will create a *LIF File*. To obtain a license please send this file to epr-applications@bruker.com and include any additional information about your spectrometer (e.g. serial number)
 5. You will receive a license file (Specman4EPR.nlic). Move this file into the SpecMan4EPR directory. This will activate your software license and you will be able to use SpecMan4EPR.
 
 

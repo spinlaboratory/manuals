@@ -38,7 +38,7 @@ For a detailed description of the individual device parameters, see the [Configu
 
 ## Saving and Loading Configurations
 
-In Expert Access mode, use the **Save** button to save the current device configuration to a file, and the **Load** button to restore a previously saved configuration. Bridge12/Bruker recommends keeping a backup copy of a working configuration file before making any changes.
+In Expert Access mode, use the **Save** button to save the current device configuration to a file, and the **Load** button to restore a previously saved configuration. Bruker recommends keeping a backup copy of a working configuration file before making any changes.
 
 ## Common Configuration Tasks
 

@@ -10,7 +10,7 @@ description:    "Getting Started with the iVTI"
 ### Important ###
 Before operating the iVTI please familiarize yourself with the principle of operations described in the section [iVTI Overview](/systems/spectrometers/80-integrated-vti/10-vti-overview/). 
 
-The following section provides information about day-to-day operation of the cryostat. If you need assistance troubleshooting iVTI operations, please first consult the manual or contact [Bridge12](mailto:info@bridge12.com) or [CRYOGENIC](mailto:sales@cryogenic.co.uk).
+The following section provides information about day-to-day operation of the cryostat. If you need assistance troubleshooting iVTI operations, please first consult the manual or contact [Bruker](mailto:epr-applications@bruker.com) or [CRYOGENIC](mailto:sales@cryogenic.co.uk).
 {{% /pageinfo %}}
 
 

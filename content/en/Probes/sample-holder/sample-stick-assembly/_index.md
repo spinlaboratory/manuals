@@ -4,7 +4,7 @@ linkTitle:      "Sample Stick"
 weight:         20
 type:           docs
 date:           2023-01-24
-description:    "The Bridge12 sample stick assembly"
+description:    "The Bruker sample stick assembly"
 ---
 <center>
 {{< figure src="/manuals/images/probes/sample-holder/02-Sample Stick.png" alt="Sample Stick Assembly" caption="Sample Stick Assembly">}}
@@ -57,7 +57,7 @@ The **Sample Holder Extension** (shown above) consists of 3 different parts:
 
 The **Cap** of the sample stick can be unscrewed to vent the insight of the **Sample Holder Extension** when operating the probe at low temperatures. An o-ring is used to seal the top of the extension. 
 
-By default and if not otherwise specified at the time of ordering the probe, the probe will be delivered with a closed Cap. However, to feed electrical wires or an optical fiber to the sample, the Cap can be replaced with one that has a center hole. For more information contact Bridge12 at info@bridge12.com
+By default and if not otherwise specified at the time of ordering the probe, the probe will be delivered with a closed Cap. However, to feed electrical wires or an optical fiber to the sample, the Cap can be replaced with one that has a center hole. For more information contact Bruker at epr-applications@bruker.com
 
 <!--## Where should I go next?
 

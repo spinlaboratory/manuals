@@ -7,6 +7,10 @@ menu:
   main:
     weight:     20
 draft:          True
+cascade:
+  build:
+    render:     never
+    list:       never
 ---
 This section covers the software used to operate and control Bruker EPR spectrometers.
 

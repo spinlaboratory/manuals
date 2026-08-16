@@ -43,7 +43,7 @@ Do not overtighten the **Sample Haolder Tip**. The **Sample Holder** should have
 
 ### Recommended Sample Height
 
-By adjusting how much the capillary is sticking out of the **Sample Holder Tip** the user can control how far the sample is inserted into the resonator. In general, Bridge12 requires that the distance between the *center* of the sample and the bottom of the **Sample Holder Tip** is about 1 inch (25.4 mm).
+By adjusting how much the capillary is sticking out of the **Sample Holder Tip** the user can control how far the sample is inserted into the resonator. In general, Bruker requires that the distance between the *center* of the sample and the bottom of the **Sample Holder Tip** is about 1 inch (25.4 mm).
 
 This is shown in the figure above (right side).
 

@@ -4,7 +4,7 @@ linkTitle:      "pyB12Logger"
 type:           docs
 weight:         30
 draft:          false
-description:    "System monitor and logger for Bridge12 spectrometers"
+description:    "System monitor and logger for Bruker spectrometers"
 ---
 The pyB12Logger is a general purpose logging software to log the status of different devices that are connected to the spectrometer (e.g. cryo-compressor, temperature controllers, ...). The software is distributed as a Python package.
 
@@ -103,8 +103,8 @@ compressor_pressure           = $PR171F6, alias = He pressure
 status                        = $STA3504, alias = Status, static = 301
 ```
 
-For more information about how to configure the pyB12logger, please contact Bridge12 at support@bridge12.com.
+For more information about how to configure the pyB12logger, please contact Bruker at epr-applications@bruker.com.
 
 
 ## Installation
-The software comes installed and pre-configured with the spectrometer. If you need to re-install the software please contact us at support@bridge12.com.
+The software comes installed and pre-configured with the spectrometer. If you need to re-install the software please contact us at epr-applications@bruker.com.

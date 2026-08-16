@@ -10,7 +10,7 @@ This section covers the EPR spectrometer systems and their individual subsystems
 
 Available subsections:
 
-- **X-Band IF System** — The modular intermediate-frequency microwave bridge at the core of all Bridge12/Bruker EPR spectrometers. Covers the synthesizer, pulse forming unit, receiver, back panel connections, and example configurations.
+- **X-Band IF System** — The modular intermediate-frequency microwave bridge at the core of all Bruker EPR spectrometers. Covers the synthesizer, pulse forming unit, receiver, back panel connections, and example configurations.
 - **Frequency Extensions** — Add-on modules that extend the X-Band IF system to other frequency bands including S-Band, Q-Band, W-Band, and high-field operation.
 - **Microwave Amplifiers** — High-power solid-state amplifiers for pulsed EPR spectroscopy.
 - **Magnets** — Superconducting magnet systems used in EPR spectrometers, including installation, cooldown, warmup, and probe installation procedures.

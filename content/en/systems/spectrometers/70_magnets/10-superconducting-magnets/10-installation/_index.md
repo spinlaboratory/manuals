@@ -10,5 +10,5 @@ During the initial installation of the spectrometer, the magnet will be installe
 
 If you have any more questions please reach out to:
 
-* [Bridge12](mailto:info@bridge12.com) - for spectrometer related questions
+* [Bruker](mailto:epr-applications@bruker.com) - for spectrometer related questions
 * [CRYOGENIC Ltd.](mailto:sales@cryogenic.co.uk) - for magnet related questions

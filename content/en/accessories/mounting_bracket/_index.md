@@ -7,7 +7,7 @@ date:           2023-03-28
 description:    ""
 draft:          False
 ---
-Some liquid cryogen-free cryostats require a mounting bracket to securely hold the probe in place and to dampen vibrations caused by the cold head. A support bracket is available for all Bridge12 EPR probes. Please reach out to support@bridge12.com if you require a support bracket. 
+Some liquid cryogen-free cryostats require a mounting bracket to securely hold the probe in place and to dampen vibrations caused by the cold head. A support bracket is available for all Bruker EPR probes. Please reach out to epr-applications@bruker.com if you require a support bracket. 
 
 <center>
 {{< figure src="/manuals/images/probes/mounting-bracket/Mounting Bracket_20240605_600px.png">}}
@@ -22,9 +22,9 @@ The mounting bracket assembly consists of the following components (refer to the
 
 | Part Name | Quantity | Replacement Part |
 | --- | --- | --- |
-| Mounting bracket | 2 | [Contact Bridge12](mailto://support@bridge12.com) |
+| Mounting bracket | 2 | [Contact Bruker](mailto://epr-applications@bruker.com) |
 | Threaded rods (1/4-20), cut to desired length | 2 | [McMaster-Carr](https://www.mcmaster.com/90575A223/) |
-| Adjustable bushing | 4 | [Contact Bridge12](mailto://support@bridge12.com) |
+| Adjustable bushing | 4 | [Contact Bruker](mailto://epr-applications@bruker.com) |
 | Washers | 4 | [McMaster-Carr](https://www.mcmaster.com/90107A029/) |
 | Lock washers | 4 | [McMaster-Carr](https://www.mcmaster.com/92147A029/) |
 | Nuts (size 1/4-20) | 8 | [McMaster-Carr](https://www.mcmaster.com/94804A029/) |

@@ -7,6 +7,10 @@ menu:
   main:
     weight:     10
 draft:          True
+cascade:
+  build:
+    render:     never
+    list:       never
 ---
 Welcome to the online documentation of our EPR systems. To ensure our documentation is always up to date and to easily expand and improve our documentation, we do not distribute paper manuals for these systems.
 

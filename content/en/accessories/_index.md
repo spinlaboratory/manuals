@@ -7,6 +7,10 @@ weight:         40
 menu:
   main:
     weight:     40
+cascade:
+  build:
+    render:     never
+    list:       never
 ---
 This section covers accessories for Bruker EPR spectrometers and probes. Please read the documentation for each accessory carefully before use.
 

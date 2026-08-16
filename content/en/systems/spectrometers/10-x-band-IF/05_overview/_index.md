@@ -1,16 +1,16 @@
 ﻿---
-title:          "Bridge12 X-IF System Overview"
+title:          "Bruker X-IF System Overview"
 linkTitle:      "Overview"
 type:           docs
 weight:         05
 draft:          False
-description:    "Bridge12 X-IF System Overview"
+description:    "Bruker X-IF System Overview"
 ---
 <center>
-{{< figure_manuals src="/manuals/images/systems/xif/X-Band IF Schematics_20240603.png" width="800px" caption="Bridge12 X-IF Overview Schematic">}}
+{{< figure_manuals src="/manuals/images/systems/xif/X-Band IF Schematics_20240603.png" width="800px" caption="Bruker X-IF Overview Schematic">}}
 </center>
 
-The Bridge12 X-IF system consists of four different sub-systems:
+The Bruker X-IF system consists of four different sub-systems:
 
 1. **Synthesizer (SYN):** - Two-channel microwave synthesizer.
 2. **Reference Clock (REF):** - Internal 10 MHz reference clock.
@@ -24,7 +24,7 @@ A schematic of the entire system is shown in the figure above. Most of the conne
 {{< figure_manuals src="/manuals/images/systems/xif/Synthesizer Schematic_20240605.png" width="800px">}}
 </center>
 
-The Bridge12 X-IF system has an integrated microwave synthesizer with two independent channels, ```LO1``` and ```LO2```. The signal of both channels is split into two signal paths. Both signals (```LO1``` and ```LO2```) are available on the back panel. ```LO1``` is also connected internally to the input of the [Pulse Forming Unit (PFU)](/systems/spectrometers/10-x-band-if/05_overview/#pulse-forming-unit). ```LO2``` is also available on the side panel of the X-IF system, below the signal (SIG) input.
+The Bruker X-IF system has an integrated microwave synthesizer with two independent channels, ```LO1``` and ```LO2```. The signal of both channels is split into two signal paths. Both signals (```LO1``` and ```LO2```) are available on the back panel. ```LO1``` is also connected internally to the input of the [Pulse Forming Unit (PFU)](/systems/spectrometers/10-x-band-if/05_overview/#pulse-forming-unit). ```LO2``` is also available on the side panel of the X-IF system, below the signal (SIG) input.
 
 Both microwave synthesizers are locked to the internal [10 MHz reference clock](/systems/spectrometers/10-x-band-if/05_overview/#reference-ref). By default both channels are phase locked to each other. This can be changed through the software.
 
@@ -33,7 +33,7 @@ Both microwave synthesizers are locked to the internal [10 MHz reference clock](
 {{< figure_manuals src="/manuals/images/systems/xif/10MHz Reference Schematic_20240605.png" width="800px">}}
 </center>
 
-The Bridge12 X-IF system has an integrated oven-stabilized 10 MHz reference clock. Three ```10 MHz``` outputs of the reference clock are available on the backpanel. This can be used to sync other devices such as an AWG or Digitizer. One channel of the clock is internally connected to the synthesizer for phase locking.
+The Bruker X-IF system has an integrated oven-stabilized 10 MHz reference clock. Three ```10 MHz``` outputs of the reference clock are available on the backpanel. This can be used to sync other devices such as an AWG or Digitizer. One channel of the clock is internally connected to the synthesizer for phase locking.
 
 {{% pageinfo color="info" %}}
 ### Note ###
@@ -67,7 +67,7 @@ An auxillary LO signal can be supplied to the IQ mixer by connecting the ```AUX 
 {{< figure_manuals src="/manuals/images/systems/xif/RCVR Overview Schematic_20240605.png" width="800px">}}
 </center>
 
-The Bridge12 X-IF is equipped with a IQ mixer based Receiver Unit. The signal from the probe is connected to the ```SIG``` side panel connector.
+The Bruker X-IF is equipped with a IQ mixer based Receiver Unit. The signal from the probe is connected to the ```SIG``` side panel connector.
 
 {{% pageinfo color="info" %}}
 ### Note ###
