@@ -18,7 +18,7 @@ Due to the nature of the resonator, the resonance frequency will not noticeably 
 {{% pageinfo color="primary" %}}
 ### Important
 
-If you have already samples that are loaded into a smaller capillaries, we recommend placing the existing capillary into the WG-221T-RB sample tube to shift the resonator frequency to the correct regime.
+If you already have samples loaded into smaller capillaries, we recommend placing the existing capillary into the WG-221T-RB sample tube to shift the resonator frequency to the correct regime.
 {{% /pageinfo %}}
 
 
@@ -38,9 +38,9 @@ Typical Q values and conversion factors for the overcoupled and critically coupl
 | Parameter                                        | QLP-1.6                           | QLP-2.5                           |
 | ------------------------------------------------ | --------------------------------- |-----------------------------------|
 | Microwave Conversion Factor (critically coupled) | > 12 G/sqrt(W)                    | > 12 G/sqrt(W)                    |
-| Bandwidth (critcially coupled)                   | Q ~ 300 - 400 <br> (85 - 113 MHz) | Q ~ 300 - 400 <br> (85 - 113 MHz) |
+| Bandwidth (critically coupled)                   | Q ~ 300 - 400 <br> (85 - 113 MHz) | Q ~ 300 - 400 <br> (85 - 113 MHz) |
 | Microwave Conversion Factor (overcoupled)        | > 5 G/sqrt(W)                     | > 5 G/sqrt(W)                     |
-| Bandwidth (critcially coupled)                   | Q < 85 <br> (> 400 MHz)           | Q < 85 <br> (> 400 MHz)           |
+| Bandwidth (critically coupled)                   | Q < 85 <br> (> 400 MHz)           | Q < 85 <br> (> 400 MHz)           |
 
 To achieve the largest resonator bandwidth, the iris should be at its highest position. However, in some circumstances it may be beneficial to lower the iris to increase the B<sub>1e</sub> field strength, at the expense of the resonator bandwidth.
 

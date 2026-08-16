@@ -20,9 +20,9 @@ Please make yourself familiar with the instructions below before attempting to i
 {{% pageinfo color="warning" %}}
 
 ### Warning
-Be careful to not drop any screws or wahsers into the waveguide port during installation to avoid potentially damaging the vacuum window. Do not use any sharp tools to retrive parts that are accidentally dropped into the waveguide port. Instead, flip the probe upside down and gently shake the probe to retrieve the dropped item.
+Be careful to not drop any screws or washers into the waveguide port during installation to avoid potentially damaging the vacuum window. Do not use any sharp tools to retrieve parts that are accidentally dropped into the waveguide port. Instead, flip the probe upside down and gently shake the probe to retrieve the dropped item.
 
-Do not proceed if parts got stuck inside the waveguide port and you are not able to retrieve it.
+Do not proceed if parts got stuck inside the waveguide port and you are not able to retrieve them.
 
 {{% /pageinfo %}}
 
@@ -38,7 +38,7 @@ To connect the probe to the spectrometer please follow these steps:
     
     To facilitate connecting the probe to the spectrometer a 4 in. long straight WR-28 waveguide section, and a 12. in. long WR-28 flexible waveguide are included.
 
-4. Every EPR spectrometer is different. A typicall example how to connect the probe is by adding the 4 in. straight waveguide section to the top of the probe and cover the rest of the distance from the probe to the spectrometer using the flexible waveguide.
+4. Every EPR spectrometer is different. A typical example how to connect the probe is by adding the 4 in. straight waveguide section to the top of the probe and cover the rest of the distance from the probe to the spectrometer using the flexible waveguide.
 
 {{% pageinfo color="info" %}}
 

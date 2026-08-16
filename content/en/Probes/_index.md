@@ -10,7 +10,7 @@ draft:          False
 description:    ""
 ---
 
-In this section, you can find the online documentation of some of our EPR probe heads. To keep the documentation easily up to date, we currenlty do not distribute paper manuals for the QLP probe.
+In this section, you can find the online documentation of some of our EPR probe heads. To keep the documentation easily up to date, we currently do not distribute paper manuals for the QLP probe.
 
 {{% pageinfo color="primary" %}}
 

@@ -16,7 +16,7 @@ The QLP EPR probe is shipped in a sturdy case to protect the probe from damages 
 {{< figure src="/manuals/images/probes/QLP/qlp-probe-case.png" caption="QLP and accessories in shipping case." width="600px">}}
 </center>
 
-To install the probe, simple remove the probe from the shipping case and insert the probe into the cryostat. The probe is compatible with the integrated VTI of the Compact-Q system and the Oxford Instruments CF935 cryostat. For more information about how to install the probe take a look at the section [Connecting the Probe to the Spectrometer]()
+To install the probe, simply remove the probe from the shipping case and insert the probe into the cryostat. The probe is compatible with the integrated VTI of the Compact-Q system and the Oxford Instruments CF935 cryostat. For more information about how to install the probe take a look at the section [Connecting the Probe to the Spectrometer]()
 
 
 ## Storing the Probe ##
@@ -24,7 +24,7 @@ To install the probe, simple remove the probe from the shipping case and insert 
 If the probe is not used, we recommend storing the probe in the original shipping case. This will protect the probe from dust and prevent any damages.
 
 
-## What is Included ?:
+## What is Included?
 The following items are included with the probe:
 
 | Description | Quantity | Spare Part | Part Number (if Spare Part) |

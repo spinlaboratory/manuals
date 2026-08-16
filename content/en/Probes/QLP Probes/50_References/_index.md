@@ -32,8 +32,8 @@ The field of pulsed dipolar spectroscopy is rapidly evolving. Below, find some g
 1. Jeschke, G., M. Pannier, A. Godt, and H. W. Spiess. "Dipolar Spectroscopy and Spin Alignment in Electron Paramagnetic Resonance." Chemical Physics Letters 331, no. 2 (December 1, 2000): 243–52. https://doi.org/10.1016/S0009-2614(00)01171-4.
 
 #### Q-Band LGR Resonators:
-2. Denysenkov, Vasyl, Philipp van Os, and Thomas F. Prisner. "Q-Band Loop-Gap Resonator for EPR Applications with Broadband-Shaped Pulses." Applied Magnetic Resonance 48 (December 1, 2017): 1263–72. https://doi.org/10.1007/s00723-017-0930-9.
-3. Tschaggelar, Rene, Frauke D. Breitgoff, Oliver Oberhänsli, Mian Qi, Adelheid Godt, and Gunnar Jeschke. "High-Bandwidth Q-Band EPR Resonators." Applied Magnetic Resonance 48 (December 1, 2017): 1273–1300. https://doi.org/10.1007/s00723-017-0956-z
+1. Denysenkov, Vasyl, Philipp van Os, and Thomas F. Prisner. "Q-Band Loop-Gap Resonator for EPR Applications with Broadband-Shaped Pulses." Applied Magnetic Resonance 48 (December 1, 2017): 1263–72. https://doi.org/10.1007/s00723-017-0930-9.
+2. Tschaggelar, Rene, Frauke D. Breitgoff, Oliver Oberhänsli, Mian Qi, Adelheid Godt, and Gunnar Jeschke. "High-Bandwidth Q-Band EPR Resonators." Applied Magnetic Resonance 48 (December 1, 2017): 1273–1300. https://doi.org/10.1007/s00723-017-0956-z
 
 #### RIDME:
 1. Kulik, L. V., S. A. Dzuba, I. A. Grigoryev, and Yu. D. Tsvetkov. "Electron Dipole–Dipole Interaction in ESEEM of Nitroxide Biradicals." Chemical Physics Letters 343, no. 3 (August 3, 2001): 315–24. https://doi.org/10.1016/S0009-2614(01)00721-7.

@@ -29,7 +29,7 @@ To insert the sample stick into the probe follow these instructions:
 {{% pageinfo color="info" %}}
 
 ### Note
-Please keep in mind that these instructions can differ, depending on the type and make of the low-temperature cryostat and individual settins which can differ from lab to lab.
+Please keep in mind that these instructions can differ, depending on the type and make of the low-temperature cryostat and individual settings which can differ from lab to lab.
 
 {{% /pageinfo %}}
 
@@ -40,7 +40,7 @@ Please keep in mind that these instructions can differ, depending on the type an
 {{< figure src="/manuals/images/probes/QLP/qlp-top.png" caption="" width="300px">}}
 </center>
 
-3. Loosen the nut at the top of the sample turret (see figure above). Depending on the probe the nut may be made from brass, stainless steel, or anodized aluminum. Typically, just loosen the nut should be sufficient, it is not necessary to completely remove the nut.
+3. Loosen the nut at the top of the sample turret (see figure above). Depending on the probe the nut may be made from brass, stainless steel, or anodized aluminum. Typically, just loosening the nut should be sufficient; it is not necessary to completely remove the nut.
 4. Pull out previous sample stick or blind plug. If the purge gas is running, there should be no ambient air entering the cold space of the cryostat.
 5. Insert the new sample stick (or blind plug).
 6. Push sample stick all the way to the bottom. If the distance between the center of the sample and the bottom of the sample holder is 1 inch, the bottom of the sample holder will rest on top of the resonator.

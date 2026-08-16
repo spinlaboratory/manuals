@@ -14,7 +14,7 @@ Please check the recommended sample amount/height and position for the resonator
 
 {{< figure src="/manuals/images/probes/sample-holder/07-Sample Amount Position.png" alt="Sample Amount and Position">}}
 
-When preparing a sample and mounting it in the Sampler Holder to factors are important to consider:
+When preparing a sample and mounting it in the Sample Holder two factors are important to consider:
 
 * **Sample Height**: The sample height depends on the active volume of the resonator and is specific to the resonator model.
 * **Distance to Sample Center**: For the majority of Bruker resonators, the distance to sample center is 1 in. (25.4 mm). The distance may differ for some older resonator models. If you are not sure about the distance please contact Bruker at epr-applications@bruker.com

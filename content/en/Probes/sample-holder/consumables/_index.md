@@ -27,7 +27,7 @@ Other sample tubes can be used too, as long as they fit into the sample holder.
 {{% pageinfo color="warning" %}}
 ### Warning
 
-Only use sample tube/capillary sizes that are recommended by Bruker BioSpin for the particular probe. Using sample tube/capillary that are too big for the probe can result in irreparable damage to the probe, the sample or both.
+Only use sample tube/capillary sizes that are recommended by Bruker BioSpin for the particular probe. Using a sample tube/capillary that is too big for the probe can result in irreparable damage to the probe, the sample or both.
 {{% /pageinfo %}}
 
 ## Other Probe Stick Consumables
