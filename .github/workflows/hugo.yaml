@@ -27,7 +27,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
         with:
-          submodules: recursive
           fetch-depth: 0
       - name: Setup Go
         uses: actions/setup-go@v6
@@ -67,9 +66,6 @@ jobs:
           echo "Go: $(go version)"
           echo "Hugo: $(hugo version)"
           echo "Node.js: $(node --version)"
-      - name: Install Node.js dependencies
-        run: |
-          [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
       - name: Configure Git
         run: |
           git config core.quotepath false
