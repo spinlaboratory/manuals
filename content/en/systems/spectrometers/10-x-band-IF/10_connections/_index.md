@@ -90,5 +90,5 @@ Only use the power adapter that came with the X-Band IF system to power up the i
 
 Failure to use the correct power adapter can lead to permanent damage of the system.
 
-If you are unsure about the power adapter, please contact Bridge12 at support@bridge12.com
+If you are unsure about the power adapter, please contact Bruker at epr-applications@bruker.com
 {{% /pageinfo %}}

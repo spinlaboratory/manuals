@@ -4,7 +4,7 @@ linkTitle:      "Consumables"
 weight:         50
 type:           docs
 date:           2023-01-24
-description:    "Consumables for Bridge12 EPR probes"
+description:    "Consumables for Bruker EPR probes"
 ---
 ## Sample Tubes
 
@@ -27,7 +27,7 @@ Other sample tubes can be used too, as long as they fit into the sample holder.
 {{% pageinfo color="warning" %}}
 ### Warning
 
-Only use sample tube/capillary sizes that are recommended by Bridge12 Technologies for the particular probe. Using sample tube/capillary that are too big for the probe can result in irreparable damage to the probe, the sample or both.
+Only use sample tube/capillary sizes that are recommended by Bruker BioSpin for the particular probe. Using a sample tube/capillary that is too big for the probe can result in irreparable damage to the probe, the sample or both.
 {{% /pageinfo %}}
 
 ## Other Probe Stick Consumables
@@ -37,4 +37,4 @@ Only use sample tube/capillary sizes that are recommended by Bridge12 Technologi
 | O-Ring (Sample Holder Extension) | McMaster | 9464K12            | ([McMaster: 9464K12](https://www.mcmaster.com/9464K12/))  |
 | Spring (Sample Holder)           | McMaster | 8969T606           | ([McMaster: 8969T606](https://www.mcmaster.com/8969T606/))|
 
-If you require additional sample holders, or sample holder extensions, please contact Bridge12 at ino@bridge12.com.
+If you require additional sample holders, or sample holder extensions, please contact Bruker at epr-applications@bruker.com.

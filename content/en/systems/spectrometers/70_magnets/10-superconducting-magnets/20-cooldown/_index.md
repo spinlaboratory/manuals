@@ -10,9 +10,9 @@ description:    "How to cool down the magnet"
 ### Warning ###
 Please make sure to read the instructions for cooling down the magnet carefully. Make sure you don't have any questions and all required equipment is in place.
 
-These instructions are not to be used for initial cooling down of the magnet. For these instructions it is assumed that the magnet was properly decommissioned by [Bridge12](mailto:info@bridge12.com) or [CRYOGENIC](mailto:sales@cryogenic.co.uk).
+These instructions are not to be used for initial cooling down of the magnet. For these instructions it is assumed that the magnet was properly decommissioned by [Bruker](mailto:epr-applications@bruker.com) or [CRYOGENIC](mailto:sales@cryogenic.co.uk).
 
-If you have additional questions please do not hesitate to reach out to [Bridge12](mailto:info@bridge12.com) or [CRYOGENIC](mailto:sales@cryogenic.co.uk).
+If you have additional questions please do not hesitate to reach out to [Bruker](mailto:epr-applications@bruker.com) or [CRYOGENIC](mailto:sales@cryogenic.co.uk).
 {{% /pageinfo %}}
 
 ## Required Equipment ##

@@ -60,7 +60,7 @@ For pulsed EPR experiments the resonator must be overcoupled to reach the maximu
 
 1. Before you adjust the resonator iris to overcouple the resonator, make sure the microwave frequency (red vertical line) is set to the tuning dip. The microwave frequency is adjusted in the Control Panel (see figure above).
 2. Slowly turn the micrometer screw to overcouple the resonator. This will raise the iris and the tuning dip will get broader. The tune dip will also shift ub by about 90 MHz. For maximum overcoupling set the height of the iris to 7 mm.
-3. For DEER experiments on nitroxide-based spin labels you don't have to adjust the microwave frequency. The shift of the dip is about 90 MHz, which corresponds to the frequency separation of the pump and observe pulse. When using different paramagnetic species the frequency may have to be adjusted. However, keep in mind, the resonator bandwidth is > 400 MHz for the Bridge12 QLP probe.
+3. For DEER experiments on nitroxide-based spin labels you don't have to adjust the microwave frequency. The shift of the dip is about 90 MHz, which corresponds to the frequency separation of the pump and observe pulse. When using different paramagnetic species the frequency may have to be adjusted. However, keep in mind, the resonator bandwidth is > 400 MHz for the Bruker QLP probe.
 4. To exit the tune mode, click the ``stop`` button (click the square icon, bottom left) and click the ``OK`` button to close the window.
 
 The spectrometer is ready for the first experiment.

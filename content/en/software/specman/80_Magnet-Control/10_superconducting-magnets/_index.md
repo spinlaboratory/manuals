@@ -19,7 +19,7 @@ Please check with your local facility manager about safety procedures when worki
 {{% /pageinfo %}}
 
 ## Overview ##
-Superconducting magnets used in Bridge12 EPR spectrometers come with an integrated heater switch so the magnet can be operated in a *driven-mode* or in *persistent mode*. If the magnet switch is closed, the magnet is in persistent mode, similar to superconducting magnets. While the magnet will have the lowest drift rate in persistent mode, generating a very stable field, the field can not be swept/changed. To sweep the magnetic field, the heater has to be activated to open the switch.
+Superconducting magnets used in Bruker EPR spectrometers come with an integrated heater switch so the magnet can be operated in a *driven-mode* or in *persistent mode*. If the magnet switch is closed, the magnet is in persistent mode, similar to superconducting magnets. While the magnet will have the lowest drift rate in persistent mode, generating a very stable field, the field can not be swept/changed. To sweep the magnetic field, the heater has to be activated to open the switch.
 
 A typical scenario to put the magnet in persisten mode at e.g. 5 T would look like this:
 
@@ -42,6 +42,6 @@ If the magnet is "parked" at a non-zero field and is in persistent mode, the cur
 
 The superconducting magnet power supply will not allow the user to activate the heater if the current in the leads does not match the current of the magnet coil.
 
-If you encounter any problems please contact Bridge12 at support@bridge12.com.
+If you encounter any problems please contact Bruker at epr-applications@bruker.com.
 {{% /pageinfo %}}
 

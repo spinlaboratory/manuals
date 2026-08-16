@@ -6,7 +6,7 @@ weight:         20
 draft:          False
 description:    "Getting started with the Q-Band spectrometer SpecMan4EPR"
 ---
-In this section we give a general overview how to operate the Bridge12 Q-Band pulsed EPR spectrometer, which will include the following steps:
+In this section we give a general overview how to operate the Bruker Q-Band pulsed EPR spectrometer, which will include the following steps:
 
 * Loading the sample into the spectrometer
 * Optimizing the microwave pulse parameters

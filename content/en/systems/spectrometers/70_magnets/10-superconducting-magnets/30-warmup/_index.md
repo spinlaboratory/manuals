@@ -10,7 +10,7 @@ description:    "How to warm up the magnet"
 ### Warning ###
 Please make sure to read the instructions for warming up the magnet carefully. Make sure you don't have any questions and all required equipment is in place.
 
-If you have additional questions please do not hesitate to reach out to [Bridge12](mailto:info@bridge12.com) or [CRYOGENIC](mailto:sales@cryogenic.co.uk).
+If you have additional questions please do not hesitate to reach out to [Bruker](mailto:epr-applications@bruker.com) or [CRYOGENIC](mailto:sales@cryogenic.co.uk).
 {{% /pageinfo %}}
 
 Once experiments are finished and the user anticipates some considerable downtown when no experiments are planned the magnet can be warmed up to room temperature. To warm up the magnet:

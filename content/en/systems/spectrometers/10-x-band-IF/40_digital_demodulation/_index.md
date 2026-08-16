@@ -6,7 +6,7 @@ weight:       40
 draft:          False
 description:  "How to use digital demodulation with the X-Band IF system."
 ---
-The Bridge12 X-Band IF system supports digital demodulation. Digital demodulation allows for easy removal of baseline artifacts and will result in a much cleaner signal detection. Instead of down-converting the EPR signal to DC level, the LO frequency is slightly offset and the signal is detected at a frequency of e.g. 200 MHz. The exact frequency depends on the sampling rate and input bandwidth of the digitizer (or oscilloscope).
+The Bruker X-Band IF system supports digital demodulation. Digital demodulation allows for easy removal of baseline artifacts and will result in a much cleaner signal detection. Instead of down-converting the EPR signal to DC level, the LO frequency is slightly offset and the signal is detected at a frequency of e.g. 200 MHz. The exact frequency depends on the sampling rate and input bandwidth of the digitizer (or oscilloscope).
 
 {{% pageinfo color="info" %}}
 ### Information ###

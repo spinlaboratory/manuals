@@ -4,13 +4,13 @@ linkTitle:      "Sample Stick"
 weight:         20
 type:           docs
 date:           2023-01-24
-description:    "The Bridge12 sample stick assembly"
+description:    "The Bruker sample stick assembly"
 ---
 <center>
 {{< figure src="/manuals/images/probes/sample-holder/02-Sample Stick.png" alt="Sample Stick Assembly" caption="Sample Stick Assembly">}}
 </center>
 
-The complete sample stick assembly is shown in the figure about. The sample tube is mounted in the **Sample Holder**. The entire assembly is designed to easily insert the sample into the probe at any operating temperatures.
+The complete sample stick assembly is shown in the figure above. The sample tube is mounted in the **Sample Holder**. The entire assembly is designed to easily insert the sample into the probe at any operating temperatures.
 
 ## Sample Holder
 
@@ -27,7 +27,7 @@ In addition to the sample tube the **Sample Holder** assembly consists of four d
 
 ### Sample Holder Tip and Top
 
-To accomodate different samples tube diameters, the **Sample Holder** comes with a set of different **Sample Holder Tips** and **Sample Holder Tops**.
+To accommodate different sample tube diameters, the **Sample Holder** comes with a set of different **Sample Holder Tips** and **Sample Holder Tops**.
 
 <center>
 {{< figure src="/manuals/images/probes/sample-holder/04-Sample Holder Tip and Top.png" alt="Sample Holder Parts" caption="Sample Holder Parts">}}
@@ -40,7 +40,7 @@ The **Sample Holder Tip** comes in sizes between 1.6 mm and 5 mm. Use the correc
 {{% pageinfo color="primary" %}}
 ### Recommendation
 
-Each sample tube and **Sample Holder Tip** show variations of the ID and OD. We recommend, test-fitting the capillary to the **Sample Holder Tip** before loading the sample into the capillary.
+Each sample tube and **Sample Holder Tip** shows variations of the ID and OD. We recommend test-fitting the capillary to the **Sample Holder Tip** before loading the sample into the capillary.
 {{% /pageinfo %}}
 
 ## Sample Holder Extension
@@ -55,9 +55,9 @@ The **Sample Holder Extension** (shown above) consists of 3 different parts:
 2. An o-ring ([McMaster: 9464K12](https://www.mcmaster.com/9464K12/))
 3. G10/Stainless Steel extension rod.
 
-The **Cap** of the sample stick can be unscrewed to vent the insight of the **Sample Holder Extension** when operating the probe at low temperatures. An o-ring is used to seal the top of the extension. 
+The **Cap** of the sample stick can be unscrewed to vent the inside of the **Sample Holder Extension** when operating the probe at low temperatures. An o-ring is used to seal the top of the extension. 
 
-By default and if not otherwise specified at the time of ordering the probe, the probe will be delivered with a closed Cap. However, to feed electrical wires or an optical fiber to the sample, the Cap can be replaced with one that has a center hole. For more information contact Bridge12 at info@bridge12.com
+By default and if not otherwise specified at the time of ordering the probe, the probe will be delivered with a closed Cap. However, to feed electrical wires or an optical fiber to the sample, the Cap can be replaced with one that has a center hole. For more information contact Bruker at epr-applications@bruker.com
 
 <!--## Where should I go next?
 

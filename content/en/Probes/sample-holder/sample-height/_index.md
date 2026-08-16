@@ -9,15 +9,15 @@ description:    "Recommended sample amount and position for optimum performance"
 {{% pageinfo color="primary" %}}
 ### Important
 
-Please check the recommended sample amount/height and position for the resonator you are planning to use. Each resonator will have its own optimum sample height. If you don't find your particular resonator model in the list below, please contact Bridge12 at info@bridge12.com
+Please check the recommended sample amount/height and position for the resonator you are planning to use. Each resonator will have its own optimum sample height. If you don't find your particular resonator model in the list below, please contact Bruker at epr-applications@bruker.com
 {{% /pageinfo %}}
 
 {{< figure src="/manuals/images/probes/sample-holder/07-Sample Amount Position.png" alt="Sample Amount and Position">}}
 
-When preparing a sample and mounting it in the Sampler Holder to factors are important to consider:
+When preparing a sample and mounting it in the Sample Holder two factors are important to consider:
 
 * **Sample Height**: The sample height depends on the active volume of the resonator and is specific to the resonator model.
-* **Distance to Sample Center**: For the majority of Bridge12 resonators, the distance to sample center is 1 in. (25.4 mm). The distance may differ for some older resonator models. If you are not sure about the distance please contact Bridge12 at info@bridge12.com
+* **Distance to Sample Center**: For the majority of Bruker resonators, the distance to sample center is 1 in. (25.4 mm). The distance may differ for some older resonator models. If you are not sure about the distance please contact Bruker at epr-applications@bruker.com
 
 ### Sample Amounts and Position ###
 

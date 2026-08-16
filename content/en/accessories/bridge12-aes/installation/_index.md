@@ -24,10 +24,10 @@ To install the shims, make sure the magnet is switched off.
 
 
 ## What is Included
-The Bridge12 AES come by default with the following parts (see figure below):
+The Bruker AES come by default with the following parts (see figure below):
 
 <center>
-{{< figure_manuals src="/manuals/images/systems/aes/ShimsAndAccessories.png" caption="Bridge12 Active Electric Shims (AES) components" >}}
+{{< figure_manuals src="/manuals/images/systems/aes/ShimsAndAccessories.png" caption="Bruker Active Electric Shims (AES) components" >}}
 </center>
 
 1. Electrical Shims (right side, qty.: 1)
@@ -136,4 +136,4 @@ To connect the shims to a Bruker shim power supply (e.g. BSMS/2) follow this ste
 
 Once you have made these connection, the shim can be controlled through the shim power supply.
 
-If you need help at any step of the installation please contact Bridge12 at support@bridge12.com.
+If you need help at any step of the installation please contact Bruker at epr-applications@bruker.com.

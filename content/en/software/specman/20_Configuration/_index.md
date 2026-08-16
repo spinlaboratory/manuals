@@ -30,7 +30,7 @@ To access the *Expert Mode* click Expert Access button to the top right of the w
 </center>
 
 ### EPR Bridge
-Bridge12 B12TXIF bridge controller and LabJackT7 (B12TXIF)  
+Bruker B12TXIF bridge controller and LabJackT7 (B12TXIF)  
 Driver version: 3.5
 
 Interface 0: LabJack  
@@ -43,11 +43,11 @@ Name: BRIDGE
 | Band | X-Band | Frequency band of the EPR bridge. |
 | CGain1 | -27.142, 0.5714, 0, 0, 0, 0 | Polynomial coefficients (6th order) to adjust video amplifier gain. |
 | CGain2 |  -27.142, 0.5714,0 , 0, 0, 0 | Polynomial coeficients (6th order) to adjust video amplifier gain. |
-| COMOptions1 | B115200M500| Baud rate and timeout for DAQ device.  Here the baud rate is set to 115200 and the timeout is set to 500 ms. These are default parameters for the Bridge12 X-IF and should not be changed.|
+| COMOptions1 | B115200M500| Baud rate and timeout for DAQ device.  Here the baud rate is set to 115200 and the timeout is set to 500 ms. These are default parameters for the Bruker X-IF and should not be changed.|
 | CRvrLOAttn | -10, 0.667, 0, 0, 0, 0 | Polynomial coeficients (6th order) to adjust RCVR LO amplifier gain. |
 | CVCA | -10, 4, 0, 0, 0, 0 | Polynomial coeeficients (6th order) to adjust RCVR amplifier gain. |
-| DeviceID | CNIGM0114 | ID of DAQ device. Typically this is the Bridge12 project number. |
-| Multithreaded1 | false | true or (false) Allows using of GPIB in multiple threads. Bridge12 typically does not use any GPIB devices. |
+| DeviceID | CNIGM0114 | ID of DAQ device. Typically this is the Bruker project number. |
+| Multithreaded1 | false | true or (false) Allows using of GPIB in multiple threads. Bruker typically does not use any GPIB devices. |
 | Options1 | | Leave blank |
 | ReadTime1 | 0 ms | none |
 | Resource1 | COM3 | COM port of pixel controller. Use the Microsoft Device Manager (devmgr) to determine the correct port number. |
@@ -71,7 +71,7 @@ Name: SRC
 | Key | Value | Comment |
 | --- | --- | --- |
 | COMOptions | | Leave blank |
-| Multithreaded1 | false | true or (false) Allows using of GPIB in multiple threads. Bridge12 typically does not use any GPIB devices. |
+| Multithreaded1 | false | true or (false) Allows using of GPIB in multiple threads. Bruker typically does not use any GPIB devices. |
 | Options | | Leave blank |
 | ReadTime | 0 ms | Do not change. |
 | Reference | R0F10 | Reference for microwave synthesizer. R(0/1/2) for External, Internal 27MHz, or Internal 10 MHz Reference. When using an external reference the frequency (in MHz) must be given. |
@@ -88,11 +88,11 @@ A sample configuration is shown below.
 </center>
 
 ### Digitizer
-The configuration of the digitizer depends on the model and make you are using. Please contact support@bridge12.com for more information.
+The configuration of the digitizer depends on the model and make you are using. Please contact epr-applications@bruker.com for more information.
 
 
 ### Arbitrary Waveform Generator (AWG)
-The configuration of the arbitrary waveform generator (AWG) depends on the model and make you are using. Please contact support@bridge12.com for more information.
+The configuration of the arbitrary waveform generator (AWG) depends on the model and make you are using. Please contact epr-applications@bruker.com for more information.
 
 
 ## SpecMan4EPR Options

@@ -14,11 +14,11 @@ General probe specifications:
 | Parameter                                        | Value                             |
 | ------------------------------------------------ | --------------------------------- |
 | Resonator Frequency (empty)                      | 36 GHz                            |
-| Resoantor Frequency (with sample capillary)      | 34 GHz                            |
+| Resonator Frequency (with sample capillary)      | 34 GHz                            |
 | Microwave Conversion Factor (critically coupled) | > 12 G/sqrt(W)                    |
-| Bandwidth (critcially coupled)                   | Q ~ 300 - 400 <br> (85 - 113 MHz) |
+| Bandwidth (critically coupled)                   | Q ~ 300 - 400 <br> (85 - 113 MHz) |
 | Microwave Conversion Factor (overcoupled)        | > 5 G/sqrt(W)                     |
-| Bandwidth (critcially coupled)                   | Q < 85 <br> (> 400 MHz)           |
+| Bandwidth (critically coupled)                   | Q < 85 <br> (> 400 MHz)           |
 | Operating Temperature                            | 4 K to RT                         |
 
 ### Sample Access ###
