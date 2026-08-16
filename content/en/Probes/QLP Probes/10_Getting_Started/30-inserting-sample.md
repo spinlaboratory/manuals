@@ -12,8 +12,8 @@ The table below summarizes the dimensions for the QLP-1.6 and QLP-2.5 probe.
 
 | Probe | Max. OD | Typical ID | Source |
 | ----- |:-------:|:----------:|:------:|
-| QLP-1.6 | 1.6 mm | 1.1 mm | [Link to Vendor]() |
-| QLP-2.5 | 2.5 mm | 2.2 mm | [Link to Bruker Webstore]() |
+| QLP-1.6 | 1.6 mm | 1.1 mm | [Link to Vendor](https://sp-wilmadlabglass.com/product/q-band-cfq-epr-tube-100mm-l-one-end-sealed-10-pk/) |
+| QLP-2.5 | 2.5 mm | 2.2 mm | [Link to Bruker Webstore](https://store.bruker.com/components/magnetic-resonance) |
 
 
 ## Mounting the Sample ##

@@ -1,21 +1,13 @@
 ---
 title:          "Literature References"
-linkTitle:      "References"
-weight:         50
+linkTitle:      "Literature References"
 type:           docs
+weight:         30
 date:           2026-05-15
-description:    "References to pulsed dipolar EPR spectroscopy and articles citing the QLP probe"
+description:    "General literature references for EPR spectroscopy"
 draft:          False
 ---
-## References Specific to the QLP Probe ##
-
-List of links to scientific publications in which the QLP resonator was used:
-
-1. Hasanbasri, Zikri, Nicholas A. Moriglioni, and Sunil Saxena. "Efficient Sampling of Molecular Orientations for Cu(II)-Based DEER on Protein Labels." Physical Chemistry Chemical Physics, March 15, 2023. https://doi.org/10.1039/D3CP00404J.
-
-## General References ##
-
-The field of pulsed dipolar spectroscopy is rapidly evolving. Below, find some general literature references for dipolar spectroscopy and the required instrumentation.
+This section collects general literature references for EPR spectroscopy. For now, the focus is on pulsed dipolar spectroscopy (distance measurements) and the required instrumentation; references on other topics will be added over time.
 
 #### Reviews/Books:
 1. Goldfarb, Daniella. "Pulse EPR in Biological Systems – Beyond the Expert's Courtyard." Journal of Magnetic Resonance 306 (September 2019): 102–8. https://doi.org/10.1016/j.jmr.2019.07.038.
@@ -27,6 +19,7 @@ The field of pulsed dipolar spectroscopy is rapidly evolving. Below, find some g
 
 #### PELDOR/DEER:
 1. Milov, A. D., A. B. Ponomarev, and Yu. D. Tsvetkov. "Electron-Electron Double Resonance in Electron Spin Echo: Model Biradical Systems and the Sensitized Photolysis of Decalin." Chemical Physics Letters 110, no. 1 (September 14, 1984): 67–72. https://doi.org/10.1016/0009-2614(84)80148-7.
+2. Hasanbasri, Zikri, Nicholas A. Moriglioni, and Sunil Saxena. "Efficient Sampling of Molecular Orientations for Cu(II)-Based DEER on Protein Labels." Physical Chemistry Chemical Physics, March 15, 2023. https://doi.org/10.1039/D3CP00404J.
 
 #### SIFTER:
 1. Jeschke, G., M. Pannier, A. Godt, and H. W. Spiess. "Dipolar Spectroscopy and Spin Alignment in Electron Paramagnetic Resonance." Chemical Physics Letters 331, no. 2 (December 1, 2000): 243–52. https://doi.org/10.1016/S0009-2614(00)01171-4.

@@ -7,7 +7,7 @@ title = 'Manuals'
 theme = ["github.com/google/docsy", "github.com/google/docsy/dependencies"]
 
 relativeURLs = false
-canonifyURLs = false
+canonifyURLs = true
 
 # Language settings
 contentDir = "content/en"
@@ -81,7 +81,7 @@ url_latest_version = "https://spinlaboratory.github.io/manuals/"
 github_repo = ""
 github_project_repo = ""
 
-offlineSearch = false
+offlineSearch = true
 prism_syntax_highlighting = false
 
 # User interface
